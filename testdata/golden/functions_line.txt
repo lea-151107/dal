@@ -1,0 +1,2 @@
+sin² θ + cos² θ = 1, log₂ n, rank(A)
+sin^2 θ + cos^2 θ = 1, log_2 n, rank(A)

@@ -1,0 +1,2 @@
+(a + 1)/(b + 2) + (n choose k) + {n atop k} + [n atop k] + (a atop b) + (a/(a + 1)] + x/y
+(a + 1)/(b + 2) + (n choose k) + {n atop k} + [n atop k] + (a atop b) + (a/(a + 1)] + x/y

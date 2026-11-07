@@ -1,0 +1,2 @@
+∑ₖ aₖ + ∏ᵢ bᵢ + ⋃ₙ Aₙ + max_(x∈S) f(x)
+∑_k a_k + ∏_i b_i + ⋃_n A_n + max_(x∈S) f(x)

@@ -1,0 +1,2 @@
+E = mc² + ac
+E = mc^2 + ac

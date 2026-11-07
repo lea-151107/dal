@@ -1,0 +1,4096 @@
+n!
+  line: n!
+  text: 0f74fe5f50a6
+  image: 809332943501 18x16 15
+a\!b
+  line: ab
+  text: 210269557c7e
+  image: 91e2aba8ddfe 16x15 14
+\def\sqr#1{#1^2} \sqr{y}
+  line: y²
+  text: 97338f66dfbc
+  image: d5554055f4f2 20x22 17
+\#
+  line: #
+  text: 3b755a7a4bdd
+  image: 317fd9cc53f0 17x18 14
+%this is a comment
+  line: 
+  text: c7757c0896cb
+  image: df3f619804a9 1x1 0
+\%
+  line: %
+  text: fc4ac5031ace
+  image: cb8c15ceb818 17x17 15
+\begin{matrix} a & b \\ c & d \end{matrix}
+  line: a, b; c, d
+  text: 1dc1ef4b3a15
+  image: d165dbc54b6f 41x48 29
+\&
+  line: &
+  text: ea255fb66bd0
+  image: d9b36bdc3a85 16x16 15
+'
+  line: ′
+  text: f77b5694ccdd
+  image: 2891f8eece0f 7x15 15
+\text{\'{a}}
+  line: á
+  text: 4f79e69375d6
+  image: f547fb9dfc09 10x15 14
+(
+  line: (
+  text: 9cb4c360e771
+  image: f08bcd572e6e 8x20 15
+)
+  line: )
+  text: 49daf3e2b730
+  image: 0201a9a976c3 8x20 15
+\text{\(\frac a b\)}
+  line: a/b
+  text: 579462a64b71
+  image: d2d87878a0c9 16x37 23
+a\ b
+  line: a b
+  text: 5aed56523840
+  image: 9e87a0b73785 26x15 14
+\text{\"{a}}
+  line: ä
+  text: b08601458b0f
+  image: 750b72af0fde 10x15 14
+\text{\textdollar}
+  line: $
+  text: 6708699ffe4b
+  image: 672f7f6a61fd 10x17 15
+a\,\,{b}
+  line: ab
+  text: 210269557c7e
+  image: 9e87a0b73785 26x15 14
+\text{\.{a}}
+  line: ȧ
+  text: 5d7061866440
+  image: 9921dbcf91b5 10x15 14
+a\:\:{b}
+  line: ab
+  text: 210269557c7e
+  image: a278c8ca56e6 29x15 14
+\;\;{b}
+  line: b
+  text: fd59e03f1bad
+  image: 33f93666be09 20x15 14
+x_i
+  line: xᵢ
+  text: cd7fe504d3eb
+  image: 9b8641e2ebb1 19x15 9
+\_
+  line: _
+  text: 64e264caec44
+  image: 5bbae0a325aa 7x3 0
+<
+  line: <
+  text: 80028760f2ba
+  image: 303b350acdfd 16x14 12
+\text{\={a}}
+  line: ā
+  text: 738ee025ac88
+  image: 94d68f1646ff 10x14 13
+>
+  line: >
+  text: ae69a8737962
+  image: f3f97b1b49e1 16x14 12
+a\>\>{b}
+  line: ab
+  text: 210269557c7e
+  image: a278c8ca56e6 29x15 14
+[
+  line: [
+  text: 31837c83c287
+  image: 2d3691b7069d 6x20 15
+]
+  line: ]
+  text: 982318a28626
+  image: 42fd30c492cc 6x20 15
+{a}
+  line: a
+  text: 6f3d685d8931
+  image: 5b0497daf41f 11x10 9
+\{
+  line: {
+  text: 44d2cb680754
+  image: 5eafadf8a1fa 10x20 15
+\}
+  line: }
+  text: fed1397221d1
+  image: be88b6523474 10x20 15
+\vert
+  line: |
+  text: 03a3e729f3e9
+  image: af71035f28cd 6x20 15
+\Vert
+  line: ‖
+  text: 02ed2e04a2e6
+  image: 38044f488e9a 8x20 15
+\text{no~no~no~breaks}
+  line: no no no breaks
+  text: 4a84a3457588
+  image: 232ac6f06130 140x15 14
+\text{\~{a}}
+  line: ã
+  text: b5c02e9a256e
+  image: 85e65098122b 10x15 14
+x^i
+  line: xⁱ
+  text: ccf6c54a6807
+  image: a22f31448d6f 19x18 17
+\text{\^{a}}
+  line: â
+  text: b3d0219968cd
+  image: cd8d4cab673f 10x15 14
+\text{\AA}
+  line: Å
+  text: 849c5d586bde
+  image: 7372202442d4 15x18 18
+\text{\aa}
+  line: å
+  text: 838cb3d6c4a8
+  image: c2662faffd73 10x16 15
+{a \above{2pt} b+1}
+  line: a/(b + 1)
+  text: 1c7df51df4d0
+  image: 2f9984764e4b 48x39 23
+\acute e
+  line: acute(e)
+  text: 7b7f8aca4f2e
+  image: 16dffc90d6d9 10x16 15
+\text{\AE}
+  line: Æ
+  text: 3da443a9d793
+  image: 527a41602f25 19x14 14
+\text{\ae}
+  line: æ
+  text: ce9565ef68ea
+  image: a1f648fa56c7 15x10 9
+\alef
+  line: ℵ
+  text: 8ab5311da177
+  image: fe53e770fa4e 13x14 14
+\alefsym
+  line: ℵ
+  text: 8ab5311da177
+  image: fe53e770fa4e 13x14 14
+\aleph
+  line: ℵ
+  text: 8ab5311da177
+  image: fe53e770fa4e 13x14 14
+\begin{align} a&=b+c \\ d+e&=f \end{align}
+  line: a = b + c; d + e = f
+  text: 2c7a52adfb13
+  image: 4bf78a8d1df1 113x54 32
+\begin{align*} a&=b+c \\ d+e&=f \end{align*}
+  line: a = b + c; d + e = f
+  text: 2c7a52adfb13
+  image: 4bf78a8d1df1 113x54 32
+\begin{aligned} a&=b+c \\ d+e&=f \end{aligned}
+  line: a = b + c; d + e = f
+  text: 2c7a52adfb13
+  image: 4bf78a8d1df1 113x54 32
+\begin{alignat}{2} 10&x+ &3&y = 2 \\ 3&x+&13&y = 4 \end{alignat}
+  line: 10 x+ 3 y = 2; 3 x+ 13 y = 4
+  text: d3acdffff416
+  image: 186afc6f791b 114x54 32
+\begin{alignat*}{2} 10&x+ &3&y = 2 \\ 3&x+&13&y = 4 \end{alignat*}
+  line: 10 x+ 3 y = 2; 3 x+ 13 y = 4
+  text: d3acdffff416
+  image: 186afc6f791b 114x54 32
+\begin{alignedat}{2} 10&x+ &3&y = 2 \\ 3&x+&13&y = 4 \end{alignedat}
+  line: 10 x+ 3 y = 2; 3 x+ 13 y = 4
+  text: d3acdffff416
+  image: 186afc6f791b 114x54 32
+\Alpha
+  line: A
+  text: 4a9e3141e058
+  image: e66db7887021 15x15 15
+\alpha
+  line: α
+  text: 2ab9f9df86e8
+  image: cc56fdad5b0f 13x10 9
+\amalg
+  line: ⨿
+  text: a54f96e841d7
+  image: 967a10ca462d 15x14 14
+\And
+  line: &
+  text: ea255fb66bd0
+  image: d9b36bdc3a85 16x16 15
+a_{\angl n}
+  line: a_(angl(n))
+  text: 259c892fd46b
+  image: dc04bd62d5d0 24x15 9
+a_\angln
+  line: a_(angl(n))
+  text: 259c892fd46b
+  image: dc04bd62d5d0 24x15 9
+\angle
+  line: ∠
+  text: f11ad6f36906
+  image: e49b73c93b56 16x15 15
+\approx
+  line: ≈
+  text: 2a7e12aa5532
+  image: a4539eb025aa 16x10 10
+\approxeq
+  line: ≊
+  text: df754f242c2c
+  image: b8e853b9ac23 16x11 11
+\approxcolon
+  line: ≈∶
+  text: 3697ef5775d5
+  image: 240852f221aa 22x10 10
+\approxcoloncolon
+  line: ≈∷
+  text: 2ff665cd39c1
+  image: 9906d393444a 26x10 10
+\arccos
+  line: arccos
+  text: 5d66564dc8af
+  image: 6ddcc5dceb59 54x10 9
+\arcctg
+  line: arcctg
+  text: d37ae3d85941
+  image: 90bdaaa4e1f5 54x18 13
+\arcsin
+  line: arcsin
+  text: 1c399a0174b5
+  image: ff1f66d97ada 52x15 14
+\arctan
+  line: arctan
+  text: 03cb773e650a
+  image: af43a063da79 56x14 13
+\arctg
+  line: arctg
+  text: af6cc38d3d89
+  image: 9522362924a1 45x18 13
+\arg
+  line: arg
+  text: 764379d09e7d
+  image: 1f19238bfbc1 28x15 10
+\argmax
+  line: arg max
+  text: 8daa5710af72
+  image: 5c20787b8d52 69x15 10
+\argmin
+  line: arg min
+  text: 67ac258d2cda
+  image: c51dddd22f7b 65x19 14
+\begin{array}{cc} a & b \\ c & d \end{array}
+  line: a, b; c, d
+  text: 1dc1ef4b3a15
+  image: 341da0e44009 61x48 29
+\def\arraystretch{1.5} \begin{array}{cc} a & b \\ c & d \end{array}
+  line: a, b; c, d
+  text: 1dc1ef4b3a15
+  image: 341da0e44009 61x48 29
+\ast
+  line: ∗
+  text: 93484c3d2533
+  image: 76803e981f68 10x10 10
+\asymp
+  line: ≍
+  text: 173974409e9e
+  image: acbc8ef0812c 16x10 10
+{a \atop b}
+  line: (a atop b)
+  text: bc3f096eed69
+  image: 5839c650f00e 16x37 23
+\backepsilon
+  line: ∍
+  text: fa8cbd342720
+  image: f69854f536c2 11x9 9
+\backprime
+  line: ‵
+  text: 0edfb43f6d79
+  image: 00ad218d73ee 7x15 15
+\backsim
+  line: ∽
+  text: 5faac2d45a01
+  image: 0fc7b2573d52 16x8 8
+\backsimeq
+  line: ⋍
+  text: f85003ba776e
+  image: 975d34712e77 16x10 10
+\backslash
+  line: ∖
+  text: 6ed78db77cc9
+  image: c7dea8015262 12x16 13
+\bar{y}
+  line: bar(y)
+  text: d603b34f227a
+  image: 26df16decfbb 10x18 13
+\barwedge
+  line: ⊼
+  text: 2940e5c59a42
+  image: 7b12f908d79c 13x15 14
+\Bbb{ABC}
+  line: 𝔸𝔹ℂ
+  text: b79ff5dec6e7
+  image: a0570cf35aa1 39x16 15
+\Bbbk
+  line: 𝕜
+  text: 0618dbaff811
+  image: c62ba713b76c 11x14 14
+\bcancel{5}
+  line: bcancel(5)
+  text: 5c322f8b1844
+  image: c10cb57a1b35 12x15 14
+\because
+  line: ∵
+  text: e93bb2bdbbb5
+  image: e824ad19b698 11x9 9
+\begingroup a}
+  line: a
+  text: 6f3d685d8931
+  image: 5b0497daf41f 11x10 9
+\Beta
+  line: B
+  text: b4356ae332db
+  image: f627162c0e21 16x14 14
+\beta
+  line: β
+  text: 197b5b037114
+  image: a26b1158cd0a 12x19 15
+\beth
+  line: ℶ
+  text: f53233fc45ba
+  image: f406170df637 13x16 15
+\between
+  line: ≬
+  text: aabf290b9d40
+  image: aac0ac01da7e 9x22 16
+\bf AaBb12
+  line: AaBb12
+  text: 18a3425b70da
+  image: 90f71e4a7f2d 81x15 14
+\big(\big)
+  line: ()
+  text: c9b024af3380
+  image: 59102bee71f4 21x30 20
+\Big(\Big)
+  line: ()
+  text: a27a49b2a87c
+  image: 134c6e31bafd 27x42 26
+\bigcap
+  line: ⋂
+  text: 37bfea63ddd9
+  image: 5812e46805c1 23x28 19
+\bigcirc
+  line: ◯
+  text: 0940d5a9e8a4
+  image: a8aab01690fc 21x20 15
+\bigcup
+  line: ⋃
+  text: c20b15ed4aee
+  image: 384763bb1895 23x28 19
+\bigg(\bigg)
+  line: ()
+  text: 733fc650bf62
+  image: b513e030e664 35x60 35
+\Bigg(\Bigg)
+  line: ()
+  text: b90f3a76dd86
+  image: c0e61d1b31fa 35x60 35
+\biggl(
+  line: (
+  text: defdbdb68c84
+  image: f1428f99f9c5 18x60 35
+\Biggl(
+  line: (
+  text: abf355db3a65
+  image: dc90a73996c3 18x60 35
+\biggm\vert
+  line: |
+  text: df0aeb017917
+  image: 3a82fb1d5533 6x52 31
+\Biggm\vert
+  line: |
+  text: 3a1eaec3a075
+  image: 12b3692f4a67 6x62 36
+\biggr)
+  line: )
+  text: e2d01398ece4
+  image: c1249e37375c 18x60 35
+\Biggr)
+  line: )
+  text: bc9bb575b94c
+  image: 75c9dcda8491 18x60 35
+\bigl(
+  line: (
+  text: 9cb4c360e771
+  image: a60f95a6d2b0 11x30 20
+\Bigl(
+  line: (
+  text: 337053b2ed28
+  image: 8f136f7fed49 14x42 26
+\bigm\vert
+  line: |
+  text: 03a3e729f3e9
+  image: 7d8ea7f3eed0 6x26 18
+\Bigm\vert
+  line: |
+  text: b5b364514fb7
+  image: 6502ae489bed 6x42 26
+\bigodot
+  line: ⨀
+  text: a8368a893fc8
+  image: 623e6f751fcf 31x28 19
+\bigoplus
+  line: ⨁
+  text: 9e0fdbc453a4
+  image: b42841bdf3e8 31x28 19
+\bigotimes
+  line: ⨂
+  text: fce57a12c669
+  image: abb84c287682 31x28 19
+\bigr)
+  line: )
+  text: 49daf3e2b730
+  image: 125fc991894f 11x30 20
+\Bigr)
+  line: )
+  text: 0dc87572c756
+  image: b4e689a9fabd 14x42 26
+\bigsqcup
+  line: ⨆
+  text: 1bfb13d70f5f
+  image: d5d003f0c9f3 23x28 19
+\bigstar
+  line: ★
+  text: d61f312497f0
+  image: error unsupported
+\bigtriangledown
+  line: ▽
+  text: 71e23f46a13e
+  image: 79d606a34b5a 20x16 11
+\bigtriangleup
+  line: △
+  text: 000402b872d0
+  image: 3c240a7f640d 20x16 15
+\biguplus
+  line: ⨄
+  text: bb433cdf4fc9
+  image: 7ecc0f5eddf8 23x28 19
+\bigvee
+  line: ⋁
+  text: 2246a3bc4616
+  image: d2f199f88088 23x30 20
+\bigwedge
+  line: ⋀
+  text: 7d13c20f3f25
+  image: 8b9a2f402a86 23x30 20
+\binom n k
+  line: (n choose k)
+  text: 5f2ae0afae83
+  image: 79cb28ac1c64 47x48 29
+\blacklozenge
+  line: ⧫
+  text: bc3aeae0924c
+  image: error unsupported
+\blacksquare
+  line: ■
+  text: 5aa4a581084f
+  image: c0e6de3a3da8 16x14 12
+\blacktriangle
+  line: ▴
+  text: a053e168d33b
+  image: 1f1d2f7b47a5 20x16 15
+\blacktriangledown
+  line: ▾
+  text: 35546d75b779
+  image: 41a7ff6cb585 20x16 11
+\blacktriangleleft
+  line: ◀
+  text: a9147e143c20
+  image: b912e752bb6f 18x18 14
+\blacktriangleright
+  line: ▶
+  text: 7b0eaf6e10fe
+  image: b13f396b1f06 18x18 14
+\bm{AaBb}
+  line: AaBb
+  text: 9fc9fd929ce7
+  image: 47f26c44e54d 58x16 15
+\begin{Bmatrix} a & b \\ c & d \end{Bmatrix}
+  line: {a, b; c, d}
+  text: e6cefc2c4287
+  image: bf5e9bd164b0 71x48 29
+\begin{Bmatrix*}[r] 0 & -1 \\ -1 & 0 \end{Bmatrix*}
+  line: {0, −1; −1, 0}
+  text: 756a41f66a7f
+  image: 3e6b41610c8d 102x48 29
+\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+  line: [a, b; c, d]
+  text: cfee1a65d86e
+  image: ddf454652016 63x48 29
+\begin{bmatrix*}[r] 0 & -1 \\ -1 & 0 \end{bmatrix*}
+  line: [0, −1; −1, 0]
+  text: be29397371be
+  image: bd07b5206b36 93x48 29
+a \bmod b
+  line: a mod b
+  text: 0d38bda289d0
+  image: 99fa3b57e475 66x15 14
+\bold{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: b6650f93789a 93x15 14
+\boldsymbol{AaBb}
+  line: AaBb
+  text: 9fc9fd929ce7
+  image: 47f26c44e54d 58x16 15
+\bot
+  line: ⊥
+  text: 18118e8572b2
+  image: aac26b5e99c0 16x14 14
+\bowtie
+  line: ⋈
+  text: f6443834e180
+  image: ff499906871a 13x12 11
+\Box
+  line: □
+  text: 8aeb8372abfd
+  image: 9e3a64528019 16x14 12
+\boxdot
+  line: ⊡
+  text: deb898e03877
+  image: 04a7f0e436ce 16x14 12
+\boxed{ab}
+  line: ab
+  text: 0aae2d8c6854
+  image: baed4bf7e262 33x29 21
+\boxminus
+  line: ⊟
+  text: d7efbfec7200
+  image: 4bfe8e2c9fc9 16x14 12
+\boxplus
+  line: ⊞
+  text: f5cc072f07eb
+  image: cda12444e9ed 16x14 12
+\boxtimes
+  line: ⊠
+  text: 153a08a61fd5
+  image: 20a0bd8abb73 16x14 12
+\Bra{\psi}
+  line: ⟨ψ|
+  text: 197068d28482
+  image: f79df102f18c 27x20 15
+\bra{\psi}
+  line: ⟨ψ|
+  text: 197068d28482
+  image: f79df102f18c 27x20 15
+\braket{\phi|\psi}
+  line: ⟨ϕ|ψ⟩
+  text: 9c5031924474
+  image: b1b406c867e0 47x20 15
+\Braket{ ϕ | \frac{∂^2}{∂ t^2} | ψ }
+  line: ⟨ϕ | ∂²/(∂t²) | ψ⟩
+  text: 24f0223c69a2
+  image: 66302240b050 106x52 31
+{n\brace k}
+  line: {n atop k}
+  text: d3b96233f717
+  image: a019066df9f6 47x48 29
+{n\brack k}
+  line: [n atop k]
+  text: ed0dc0b55d10
+  image: 2a38f03797d5 38x48 29
+\breve{eu}
+  line: breve(eu)
+  text: 22540fe34625
+  image: 10d6dc9f1436 21x16 15
+\bull
+  line: ∙
+  text: e171e5774ea3
+  image: aeefe190a97c 10x9 9
+\bullet
+  line: ∙
+  text: e171e5774ea3
+  image: aeefe190a97c 10x9 9
+\Bumpeq
+  line: ≎
+  text: a6727f2a2160
+  image: 1c457e7c8f01 16x10 10
+\bumpeq
+  line: ≏
+  text: b4f1768713f5
+  image: 0353ea508840 16x10 10
+\cal AaBb123
+  line: 𝒜𝒶ℬ𝒷123
+  text: 0b58905b1141
+  image: 7f6c34a1c1cd 84x16 15
+\cancel{5}
+  line: cancel(5)
+  text: f516bb71dafc
+  image: 82b30327680d 12x15 14
+\Cap
+  line: ⋒
+  text: 0b9b97761a90
+  image: 19ae86bc2e53 14x14 13
+\cap
+  line: ∩
+  text: f3c4d46f72d2
+  image: d34cb23c9af5 14x14 13
+\begin{cases} a &\text{if } b \\ c &\text{if } d \end{cases}
+  line: {a, if b; c, if d
+  text: a03bf19b8a0b
+  image: 132e24bf342a 77x52 31
+\begin{CD} A @>a>> B \\ @VbVV @AAcA \\ C @= D \end{CD}
+  line: A, →ᵃ, B; b↓, , ↑c; C, =, D
+  text: ff94eedec0f2
+  image: 6278fdfcc285 91x98 54
+\cdot
+  line: ⋅
+  text: 8e6bb53ed714
+  image: 81fe95d29d8c 6x7 7
+\cdotp
+  line: ⋅
+  text: 8e6bb53ed714
+  image: 81fe95d29d8c 6x7 7
+\cdots
+  line: ⋯
+  text: 070dab7fb9ec
+  image: b908e76ca65b 16x7 7
+a\centerdot b
+  line: a ⋅ b
+  text: 5fa222fcc632
+  image: 421ca8af5341 34x15 14
+\cfrac{2}{1+\cfrac{2}{1+\cfrac{2}{1}}}
+  line: 2/(1 + 2/(1 + 2/1))
+  text: f42a7ca00a94
+  image: 9cd6939d2e92 94x91 27
+\char"263a
+  line: ☺
+  text: 155e72e050ef
+  image: error unsupported
+\check{oe}
+  line: check(oe)
+  text: a82985aa04b7
+  image: 237af0b28610 20x16 15
+\ch
+  line: ch
+  text: cc938277feff
+  image: 369e7314aec9 20x15 14
+\checkmark
+  line: ✓
+  text: 7c020ff9f336
+  image: ddf076cc24bf 17x15 14
+\Chi
+  line: X
+  text: 27c5f7a5cfc0
+  image: 0f23707c152f 18x14 14
+\chi
+  line: χ
+  text: 2893bb8a7c7d
+  image: 79345f61eebf 13x14 9
+{n+1 \choose k+2}
+  line: (n + 1 choose k + 2)
+  text: d1ecc0669527
+  image: c59593fed76b 81x48 29
+\circ
+  line: ∘
+  text: 4432883b17e5
+  image: f9ec71247bff 9x8 8
+\circeq
+  line: ≗
+  text: 27c9740dee90
+  image: ba67049103d8 16x15 15
+\circlearrowleft
+  line: ↺
+  text: 82c8bfb53a5b
+  image: a94af31a85ea 16x16 14
+\circlearrowright
+  line: ↻
+  text: d05f9df5a7bf
+  image: 34ed2f15c287 16x16 14
+\circledast
+  line: ⊛
+  text: 9d8ef802ab3e
+  image: b4758114864b 16x14 12
+\circledcirc
+  line: ⊚
+  text: 0356745bb889
+  image: fed11c4de1a0 16x14 12
+\circleddash
+  line: ⊝
+  text: ba44701aa304
+  image: 748c4dafa037 16x14 12
+\circledR
+  line: ®
+  text: fa94503615f3
+  image: 764ec632d020 14x14 14
+\circledS
+  line: Ⓢ
+  text: 96377abeb7f1
+  image: error unsupported
+\clubs
+  line: ♣
+  text: 6f884dfb8de2
+  image: e22f881c22b0 16x18 15
+\clubsuit
+  line: ♣
+  text: 6f884dfb8de2
+  image: e22f881c22b0 16x18 15
+\cnums
+  line: ℂ
+  text: fd6793ebf59c
+  image: c9d6180ab590 14x16 15
+\colon
+  line: :
+  text: c4a5fd87fb6d
+  image: f932ab438bcf 6x9 9
+\Colonapprox
+  line: ∷≈
+  text: ecdb807c2b9c
+  image: 27869c6d0856 26x10 10
+\colonapprox
+  line: ∶≈
+  text: 954f41bacda2
+  image: bffd8ea78963 22x10 10
+\coloncolon
+  line: ∷
+  text: 0750ba245b70
+  image: 4a6fafc85d47 11x9 9
+\coloncolonapprox
+  line: ∷≈
+  text: ecdb807c2b9c
+  image: 27869c6d0856 26x10 10
+\coloncolonequals
+  line: ⩴
+  text: 59f891b098c0
+  image: 4b9d66a1912e 26x9 9
+\coloncolonminus
+  line: ∷−
+  text: 6b1cefb4b879
+  image: b105b79ae460 26x9 9
+\coloncolonsim
+  line: ∷∼
+  text: 54fb468d00bf
+  image: fb46afd6ff2f 26x9 9
+\Coloneq
+  line: ∷−
+  text: 6b1cefb4b879
+  image: b105b79ae460 26x9 9
+\coloneq
+  line: ∶−
+  text: 8dfdee3ad6cd
+  image: e7aad297eae6 22x9 9
+\colonequals
+  line: ≔
+  text: d9d057ec3431
+  image: 972b6e083f51 19x9 9
+\Coloneqq
+  line: ⩴
+  text: 59f891b098c0
+  image: 4b9d66a1912e 26x9 9
+\coloneqq
+  line: ≔
+  text: d9d057ec3431
+  image: 972b6e083f51 19x9 9
+\colonminus
+  line: ∶−
+  text: 8dfdee3ad6cd
+  image: e7aad297eae6 22x9 9
+\Colonsim
+  line: ∷∼
+  text: 54fb468d00bf
+  image: fb46afd6ff2f 26x9 9
+\colonsim
+  line: ∶∼
+  text: 46e137ba4e5c
+  image: 6f1441fe2bb0 22x9 9
+\color{#0000FF} AaBb123
+  line: AaBb123
+  text: 876f682e9562
+  image: 5d6d88b62fc7 80x16 15
+\colorbox{red}{Black on red}
+  line: Black on red
+  text: ce042059dd5c
+  image: d85cbf4527f6 124x27 20
+\complement
+  line: ∁
+  text: e41246ab1f9e
+  image: caa29084b297 12x14 14
+\Complex
+  line: ℂ
+  text: fd6793ebf59c
+  image: c9d6180ab590 14x16 15
+\cong
+  line: ≅
+  text: a1802452d975
+  image: 664eede00f08 16x12 12
+\coprod
+  line: ∐
+  text: 06c78b7df7db
+  image: 526dbbfee47a 26x28 19
+\copyright
+  line: ©
+  text: 775826ea6c28
+  image: 88f6e315c445 14x14 14
+\cos
+  line: cos
+  text: 93c3916e75de
+  image: 0e262f3897e1 27x10 9
+\cosec
+  line: cosec
+  text: 62f19c96039e
+  image: a7f007816ffb 45x10 9
+\cosh
+  line: cosh
+  text: 48ba531ec35d
+  image: ac9a95b16d2a 38x15 14
+\cot
+  line: cot
+  text: 6c74719c722c
+  image: 0aaf6d7d14d1 27x14 13
+\cotg
+  line: cotg
+  text: c4d8db3f3d58
+  image: 4d9a5b8b3f5e 37x18 13
+\coth
+  line: coth
+  text: 7ef913ae1ab2
+  image: e653b78fba9d 38x15 14
+\begin{matrix} a & b \cr c & d \end{matrix}
+  line: a, b; c, d
+  text: 1dc1ef4b3a15
+  image: d165dbc54b6f 41x48 29
+\csc
+  line: csc
+  text: a2d637691e6d
+  image: 642e81e14f34 26x10 9
+\ctg
+  line: ctg
+  text: 10fa6ae0643a
+  image: fb167b258577 27x18 13
+\cth
+  line: cth
+  text: 0601eb14a535
+  image: fa6464d00ac5 28x15 14
+\Cup
+  line: ⋓
+  text: 6b4226d159b5
+  image: e630cc940c92 14x14 13
+\cup
+  line: ∪
+  text: 19a79dc649dc
+  image: 67e01de09199 14x14 13
+\curlyeqprec
+  line: ⋞
+  text: ed0354f1285c
+  image: 9bc909f5ebd2 15x16 13
+\curlyeqsucc
+  line: ⋟
+  text: 55094b5c1874
+  image: dd24ea86e5f7 15x16 13
+\curlyvee
+  line: ⋎
+  text: 12a352a92101
+  image: d5b1fc582fc5 15x13 12
+\curlywedge
+  line: ⋏
+  text: a5c0a4941c40
+  image: 1f1a5ba5926f 15x13 12
+\curvearrowleft
+  line: ↶
+  text: 0dee8a7fc7a7
+  image: 873cf892e66f 20x12 12
+\curvearrowright
+  line: ↷
+  text: 2ff9a72efc63
+  image: 9a0835ac1db8 20x12 12
+\dag
+  line: †
+  text: d49746186e9e
+  image: 5c03f690de0e 9x20 15
+\Dagger
+  line: ‡
+  text: 431d13d90ff0
+  image: 086f53495c4d 9x20 15
+\dagger
+  line: †
+  text: d49746186e9e
+  image: 5c03f690de0e 9x20 15
+\daleth
+  line: ℸ
+  text: f7704ae60205
+  image: 11cdb713a5e8 12x16 15
+\Darr
+  line: ⇓
+  text: 93b50775f648
+  image: 0648ac3f2951 13x19 15
+\dArr
+  line: ⇓
+  text: 93b50775f648
+  image: 0648ac3f2951 13x19 15
+\darr
+  line: ↓
+  text: a4c5a37e2b2f
+  image: b72348815e8d 10x19 15
+\dashleftarrow
+  line: ⇠
+  text: 98386b658b27
+  image: error unsupported
+\dashrightarrow
+  line: ⇢
+  text: f33008aedef1
+  image: error unsupported
+\dashv
+  line: ⊣
+  text: 6190147d9673
+  image: 7ec145b04633 13x14 14
+\dbinom n k
+  line: (n choose k)
+  text: 5f2ae0afae83
+  image: 79cb28ac1c64 47x48 29
+\dblcolon
+  line: ∷
+  text: 0750ba245b70
+  image: 4a6fafc85d47 11x9 9
+\begin{dcases} a &\text{if } b \\ c &\text{if } d \end{dcases}
+  line: {a, if b; c, if d
+  text: a03bf19b8a0b
+  image: 132e24bf342a 77x52 31
+\ddag
+  line: ‡
+  text: 431d13d90ff0
+  image: 086f53495c4d 9x20 15
+\ddagger
+  line: ‡
+  text: 431d13d90ff0
+  image: 086f53495c4d 9x20 15
+\ddddot x
+  line: ddddot(x)
+  text: d9705604c6e8
+  image: 2bdcc05fc069 16x15 14
+\dddot x
+  line: dddot(x)
+  text: d9705604c6e8
+  image: b5563f95dc0a 12x15 14
+\ddot x
+  line: ddot(x)
+  text: 878d2228f85f
+  image: 0106e2d16403 12x15 14
+\ddots
+  line: ⋱
+  text: f09aac568af4
+  image: 2839f8d073f9 13x10 10
+\def\foo{x^2} \foo + \foo
+  line: x² + x²
+  text: dfdff6bad12a
+  image: 4588d2c15194 66x19 17
+\deg
+  line: deg
+  text: ff517792ed32
+  image: 35058d30f066 30x19 14
+\degree
+  line: °
+  text: 52ae304ee5eb
+  image: df2a4c1c6b3a 8x14 14
+\delta
+  line: δ
+  text: 2f43fdce00b8
+  image: f886ac96f3ce 10x16 15
+\Delta
+  line: Δ
+  text: cd9498ca483b
+  image: 0be0a344379d 17x15 15
+\det
+  line: det
+  text: 03117213e7cb
+  image: 2b279626520b 28x15 14
+\digamma
+  line: ϝ
+  text: 6ef8927cd622
+  image: error unsupported
+\dfrac{a-1}{b-1}
+  line: (a − 1)/(b − 1)
+  text: 78f711b8823a
+  image: fc6b2c462a02 50x41 27
+\diagdown
+  line: ╲
+  text: a4a21bf6cc2e
+  image: c7dea8015262 12x16 13
+\diagup
+  line: ╱
+  text: c02f67106ba8
+  image: 6c8dc1b941c8 12x16 13
+\Diamond
+  line: ◊
+  text: 0380bb1e57dd
+  image: be268d902685 12x16 13
+\diamond
+  line: ⋄
+  text: 83e0dfa489d8
+  image: c9abc660ab22 10x10 10
+\diamonds
+  line: ♢
+  text: dce754b8eb42
+  image: 55315729ed1b 16x19 15
+\diamondsuit
+  line: ♢
+  text: dce754b8eb42
+  image: 55315729ed1b 16x19 15
+\dim
+  line: dim
+  text: 7479187c70c2
+  image: 35b4d5d09b30 34x15 14
+\displaystyle\sum_0^n
+  line: ∑₀ⁿ
+  text: c163fe8bef6e
+  image: 67a5945494a4 29x52 30
+\div
+  line: ÷
+  text: 70669f4aadc5
+  image: 780ad05cd183 16x12 11
+\divideontimes
+  line: ⋇
+  text: a5ea05d4d81d
+  image: c1a555fe8e3f 17x14 12
+\dot x
+  line: dot(x)
+  text: 22c23b1c70e6
+  image: 2922d5430b4b 12x15 14
+\Doteq
+  line: ≑
+  text: 9b65bcb18d09
+  image: f89d38f5ed48 16x16 13
+\doteq
+  line: ≐
+  text: 1fdf2a2ae922
+  image: c08e20f8a033 16x13 13
+\doteqdot
+  line: ≑
+  text: 9b65bcb18d09
+  image: f89d38f5ed48 16x16 13
+\dotplus
+  line: ∔
+  text: 952b1d0411d8
+  image: 27cc0ced78c4 16x18 16
+x_1 + \dots + x_n
+  line: x₁ + … + xₙ
+  text: 1bcb950d7ac3
+  image: dc2d63ad7bce 109x18 12
+x_1 +\dotsb + x_n
+  line: x₁ + ⋯ + xₙ
+  text: b31aa5726e91
+  image: 533831f7af2e 108x18 12
+x,\dotsc,y
+  line: x, …, y
+  text: af4d1985480b
+  image: 1b1704526b87 60x14 9
+\int_{A_1}\int_{A_2}\dotsi
+  line: ∫_(A₁) ∫_(A₂) ⋯
+  text: f7cbc02b7679
+  image: 3c6c17d59364 80x53 28
+\dotso
+  line: …
+  text: 97594da7360a
+  image: f367fa4d569e 17x3 3
+\doublebarwedge
+  line: ⩞
+  text: 6b02dd4878e4
+  image: error unsupported
+\doublecap
+  line: ⋒
+  text: 0b9b97761a90
+  image: 19ae86bc2e53 14x14 13
+\doublecup
+  line: ⋓
+  text: 6b4226d159b5
+  image: e630cc940c92 14x14 13
+\Downarrow
+  line: ⇓
+  text: 93b50775f648
+  image: 0648ac3f2951 13x19 15
+\downarrow
+  line: ↓
+  text: a4c5a37e2b2f
+  image: b72348815e8d 10x19 15
+\downdownarrows
+  line: ⇊
+  text: c924e52671f6
+  image: fd44983c1e41 20x19 15
+\downharpoonleft
+  line: ⇃
+  text: 5ab850ebecec
+  image: 97e6da96bdc8 9x19 15
+\downharpoonright
+  line: ⇂
+  text: 6aecfc22d836
+  image: 92894bf96647 9x19 15
+\begin{drcases} a &\text{if } b \\ c &\text{if } d \end{drcases}
+  line: a, if b; c, if d}
+  text: 363fdc8dcbc5
+  image: 68e18aa1e0ae 77x48 29
+\def\foo{a}\edef\fcopy{\foo}\def\foo{}\fcopy
+  line: a
+  text: 6f3d685d8931
+  image: 5b0497daf41f 11x10 9
+\ell
+  line: ℓ
+  text: b08e63f077cb
+  image: 2c7e76f92e99 9x16 15
+\emph{nested \emph{emphasis}}
+  line: nested emphasis
+  text: 51fb27444e6c
+  image: 79869fe43650 144x18 14
+\empty
+  line: ∅
+  text: 218601471555
+  image: 54d8c9b64070 10x18 16
+\emptyset
+  line: ∅
+  text: 218601471555
+  image: 54d8c9b64070 10x18 16
+{a\endgroup
+  line: a
+  text: 6f3d685d8931
+  image: 5b0497daf41f 11x10 9
+a\enspace b
+  line: a b
+  text: 5aed56523840
+  image: aeac3eb1dd4b 30x15 14
+\Epsilon
+  line: E
+  text: 3f57c15bb38c
+  image: 01b22ab73518 16x14 14
+\epsilon
+  line: ϵ
+  text: 0048cd428d7b
+  image: a0be5d376d80 9x10 9
+\eqcirc
+  line: ≖
+  text: 88cc8018bd9d
+  image: ed3463d3ff96 16x8 8
+\Eqcolon
+  line: −∷
+  text: ea6dc80b9af4
+  image: 52da33e29fbc 26x9 9
+\eqcolon
+  line: −∶
+  text: da3d8f825349
+  image: 02a800e833a2 22x9 9
+\begin{equation} a = b + c \end{equation}
+  line: a = b + c
+  text: a1a7b25a51f1
+  image: 8e2829634872 79x24 17
+\begin{equation*} a = b + c \end{equation*}
+  line: a = b + c
+  text: a1a7b25a51f1
+  image: 8e2829634872 79x24 17
+\Eqqcolon
+  line: =∷
+  text: d0c5c83366a4
+  image: cc5fc0ba139e 26x9 9
+\eqqcolon
+  line: ≕
+  text: f450c5d74e13
+  image: a5e0d68a1797 19x9 9
+\eqsim
+  line: ≂
+  text: 4e8140850599
+  image: 1464f8ba2300 16x8 8
+\eqslantgtr
+  line: ⪖
+  text: cbcca0355c2b
+  image: 0a4dfeb0a64a 16x16 13
+\eqslantless
+  line: ⪕
+  text: 05a179e4e5fe
+  image: cb97f1eabafb 16x16 13
+\equalscolon
+  line: ≕
+  text: f450c5d74e13
+  image: a5e0d68a1797 19x9 9
+\equalscoloncolon
+  line: =∷
+  text: d0c5c83366a4
+  image: cc5fc0ba139e 26x9 9
+\equiv
+  line: ≡
+  text: 55f1bade45ff
+  image: 7aa90a8a14bd 16x10 10
+\Eta
+  line: H
+  text: 2d6f6f7c2fdf
+  image: 9eb1e0ff4337 18x14 14
+\eta
+  line: η
+  text: 0f92a59b505a
+  image: 6ece7f896e43 10x14 9
+\eth
+  line: ð
+  text: 9706055deed3
+  image: d8ded2eecfba 10x15 14
+\exist
+  line: ∃
+  text: 50ab687f1f5f
+  image: 8c6e6c23830c 12x14 14
+\exists
+  line: ∃
+  text: 50ab687f1f5f
+  image: 8c6e6c23830c 12x14 14
+\exp
+  line: exp
+  text: b462e57a4a14
+  image: 52f028688e6f 31x13 9
+\fallingdotseq
+  line: ≒
+  text: 84374e504bb3
+  image: c456ebced270 16x16 13
+\fbox{Hi there!}
+  line: Hi there!
+  text: 90d19a7a4619
+  image: bbdda3adc685 91x30 22
+\fcolorbox{red}{aqua}{A}
+  line: A
+  text: 19905e3c1e60
+  image: d2b6515ea48f 29x29 22
+\Finv
+  line: Ⅎ
+  text: 00a08150b6ff
+  image: error unsupported
+\flat
+  line: ♭
+  text: e3fdf82ee788
+  image: f70361993fc4 8x16 15
+\footnotesize footnotesize
+  line: footnotesize
+  text: 8f11a4f5103a
+  image: 6fe7501deab9 88x16 12
+\forall
+  line: ∀
+  text: 204ad735c011
+  image: 70460c6cc341 14x15 14
+\frac a b
+  line: a/b
+  text: 579462a64b71
+  image: d2d87878a0c9 16x37 23
+\frak{AaBb}
+  line: 𝔄𝔞𝔅𝔟
+  text: 1efda7ed3416
+  image: 7342647cf67f 53x15 14
+\frown
+  line: ⌢
+  text: 348117e43d61
+  image: c4ce69541df5 20x8 8
+\Game
+  line: ⅁
+  text: 0369ee0f69e1
+  image: error unsupported
+\Gamma
+  line: Γ
+  text: 693107e6276a
+  image: 82f78714ea2d 13x14 14
+\gamma
+  line: γ
+  text: c23f50d5284d
+  image: 11da3816b247 11x14 9
+\begin{gather} a=b \\ e=b+c \end{gather}
+  line: a = b; e = b + c
+  text: 88c84a4c9066
+  image: eac6e2541d73 78x54 32
+\begin{gathered} a=b \\ e=b+c \end{gathered}
+  line: a = b; e = b + c
+  text: 88c84a4c9066
+  image: eac6e2541d73 78x54 32
+\gcd
+  line: gcd
+  text: d3cdec937bdc
+  image: f0248f640864 30x19 14
+\gdef\sqr#1{#1^2} \sqr{y} + \sqr{y}
+  line: y² + y²
+  text: 604fa0ef54d3
+  image: 5fa2df8599a0 64x22 17
+\ge
+  line: ≥
+  text: ed738ce4015d
+  image: 430a8b99e3ee 16x16 13
+\genfrac ( ] {2pt}{0}a{a+1}
+  line: (a/(a + 1)]
+  text: 8ecfd469bf7b
+  image: 6deffe4b169c 76x48 29
+\geq
+  line: ≥
+  text: ed738ce4015d
+  image: 430a8b99e3ee 16x16 13
+\geqq
+  line: ≧
+  text: 892037a5d891
+  image: a87088aa4fc4 16x20 15
+\geqslant
+  line: ⩾
+  text: bad002367a6e
+  image: 6d12f13a2cee 16x16 13
+\gets
+  line: ←
+  text: 230dfa4f8557
+  image: c6ee589c4d24 20x12 11
+\gg
+  line: ≫
+  text: 20667191ed88
+  image: 91e4b1b3b1c7 20x14 12
+\ggg
+  line: ⋙
+  text: 34b4486cab4c
+  image: 63a3f6c7efa8 26x14 12
+\gggtr
+  line: ⋙
+  text: 34b4486cab4c
+  image: 63a3f6c7efa8 26x14 12
+\gimel
+  line: ℷ
+  text: 0b22624ccc4d
+  image: 0797f0fd2976 11x16 15
+\global\def\add#1#2{#1+#2} \add 2 3
+  line: 2 + 3
+  text: 6429acce0077
+  image: 021d81246a8e 45x16 14
+\gnapprox
+  line: ⪊
+  text: 150aad90de07
+  image: 3fba98497060 16x21 15
+\gneq
+  line: ⪈
+  text: 0f33a1301a88
+  image: 3c897ec075c7 16x18 14
+\gneqq
+  line: ≩
+  text: 929759e87542
+  image: bbb97adfa45f 16x21 15
+\gnsim
+  line: ⋧
+  text: 51f4610828ee
+  image: 0a2e49b455c9 16x18 13
+\grave{eu}
+  line: grave(eu)
+  text: 26eb5e339016
+  image: 9f54c9b9ca1a 21x16 15
+a \gt b
+  line: a > b
+  text: a21fb67ea230
+  image: 712271a796af 46x16 14
+\gtrdot
+  line: ⋗
+  text: f8e847fccd9d
+  image: 6f8ee303a846 16x14 12
+\gtrapprox
+  line: ⪆
+  text: 222f6cbb09de
+  image: e4fb52c6f004 16x20 15
+\gtreqless
+  line: ⋛
+  text: 28058f283acd
+  image: d5499ebb862c 16x26 18
+\gtreqqless
+  line: ⪌
+  text: f452172c8792
+  image: 8c957fe4cfef 16x30 20
+\gtrless
+  line: ≷
+  text: 45613b14bb4d
+  image: c55eb285e7c8 16x20 15
+\gtrsim
+  line: ≳
+  text: eaf91d9cdf22
+  image: 23773016e00f 16x16 13
+\gvertneqq
+  line: ≩
+  text: 929759e87542
+  image: bbb97adfa45f 16x21 15
+\text{\H{a}}
+  line: a̋
+  text: 02e1231de4e2
+  image: 0690864ded5b 10x16 15
+\Harr
+  line: ⇔
+  text: d322aee75ea6
+  image: f63709804c9a 20x12 11
+\hArr
+  line: ⇔
+  text: d322aee75ea6
+  image: f63709804c9a 20x12 11
+\harr
+  line: ↔
+  text: b01079bda2bb
+  image: 5eb4ef32fc17 20x12 11
+\hat{\theta}
+  line: hat(θ)
+  text: 0f9b57a346f5
+  image: d1f5934374cb 10x21 20
+\hbar
+  line: ℏ
+  text: 0488b3c55850
+  image: 74126744712a 12x15 14
+\hbox{$x^2$}
+  line: x²
+  text: 668e759dd555
+  image: 8a3f3f37de29 21x18 17
+\begin{matrix} a & b \\ \hdashline c & d \end{matrix}
+  line: a, b; c, d
+  text: 3565ad8ab56a
+  image: 394a3ca4c15f 41x50 30
+\hearts
+  line: ♡
+  text: a9cde47b2dc2
+  image: d8fca067696e 16x16 15
+\heartsuit
+  line: ♡
+  text: a9cde47b2dc2
+  image: d8fca067696e 16x16 15
+\begin{matrix} a & b \\ \hline c & d \end{matrix}
+  line: a, b; c, d
+  text: 24353a1c1ba0
+  image: 33731a88ed7d 41x50 30
+\hom
+  line: hom
+  text: 93706cf99c0e
+  image: 3e877e6bdfb2 38x15 14
+\hookleftarrow
+  line: ↩
+  text: b5ea4819201b
+  image: 32aa1f0b8f72 20x12 11
+\hookrightarrow
+  line: ↪
+  text: 2660967791f4
+  image: 213c744a8af3 20x12 11
+a\hphantom{bc}d
+  line: ad
+  text: ff617ab798c7
+  image: 45c9d93df589 39x15 14
+\href{https://katex.org/}{\KaTeX}
+  line: KaTeX
+  text: b91a366ea843
+  image: 38f62a5381da 59x19 14
+w\hskip1em i\hskip2em d
+  line: w i  d
+  text: 651e7d98cf96
+  image: 7b8276f17dc7 92x15 14
+\hslash
+  line: ℏ
+  text: 0488b3c55850
+  image: 74126744712a 12x15 14
+s\hspace7ex k
+  line: s  k
+  text: 2dda1704e9a2
+  image: e7f8b81af513 81x15 14
+\htmlClass{foo}{x}
+  line: x
+  text: 924145137571
+  image: f3de280c7885 12x10 9
+\htmlData{foo=a, bar=b}{x}
+  line: x
+  text: 924145137571
+  image: f3de280c7885 12x10 9
+\htmlId{bar}{x}
+  line: x
+  text: 924145137571
+  image: f3de280c7885 12x10 9
+\htmlStyle{color: red;}{x}
+  line: x
+  text: 924145137571
+  image: f3de280c7885 12x10 9
+\huge huge
+  line: huge
+  text: 5c3c5f0638d7
+  image: 633b509e3cd3 87x38 29
+\Huge Huge
+  line: Huge
+  text: 2ac783cf12e4
+  image: 9eaa6196bc7c 117x45 34
+\text{\i}
+  line: ı
+  text: 4fd25965aa51
+  image: 64890cadf93a 6x9 9
+A\iff B
+  line: A ⟺ B
+  text: cae5a80af0f6
+  image: 8fd957a3eb15 72x16 15
+\iiint
+  line: ∭
+  text: f12fe59e705a
+  image: 62ad26c6c68f 37x46 28
+\iint
+  line: ∬
+  text: 9c7af7203baa
+  image: bd797dbe8962 29x46 28
+\Im
+  line: ℑ
+  text: 3442afc008da
+  image: 311e189f7744 12x15 14
+\image
+  line: ℑ
+  text: 3442afc008da
+  image: 311e189f7744 12x15 14
+\imageof
+  line: ⊷
+  text: 18da730ade6a
+  image: 7b3e76986829 22x8 8
+\imath
+  line: ı
+  text: 4fd25965aa51
+  image: 64890cadf93a 6x9 9
+P\impliedby Q
+  line: P ⟸ Q
+  text: d7bc75cc1379
+  image: 3e2c06e6ee62 69x19 15
+P\implies Q
+  line: P ⟹ Q
+  text: 9e76c88e69c8
+  image: ba74459613fc 69x19 15
+\in
+  line: ∈
+  text: 2b4df01eaff8
+  image: d7836c2baa12 14x12 11
+\inf
+  line: inf
+  text: bbeeedba1e74
+  image: 8930931981b0 24x15 15
+\infin
+  line: ∞
+  text: 016cfc66e9d7
+  image: 13fcd888cab1 20x10 9
+\infty
+  line: ∞
+  text: 016cfc66e9d7
+  image: 13fcd888cab1 20x10 9
+\injlim
+  line: inj lim
+  text: da9cb1adfec6
+  image: 98df56df4e50 54x19 14
+\int
+  line: ∫
+  text: 13478c4c2a01
+  image: f0bfe272444b 20x46 28
+\intercal
+  line: ⊺
+  text: 81e90fe6f5df
+  image: 69c74ffee58e 16x15 14
+\intop
+  line: ∫
+  text: 13478c4c2a01
+  image: f0bfe272444b 20x46 28
+\Iota
+  line: I
+  text: 0db5e62844f5
+  image: 7186362154ec 10x14 14
+\iota
+  line: ι
+  text: 1b213010875c
+  image: f7d2aff7aab7 8x10 9
+\isin
+  line: ∈
+  text: 2b4df01eaff8
+  image: d7836c2baa12 14x12 11
+{\it AaBb}
+  line: AaBb
+  text: 9fc9fd929ce7
+  image: c3390ef4794b 50x16 15
+\text{\j}
+  line: ȷ
+  text: 2adc8b70ca12
+  image: 96036f942719 8x14 9
+\jmath
+  line: ȷ
+  text: 2adc8b70ca12
+  image: 96036f942719 8x14 9
+\Join
+  line: ⋈
+  text: f6443834e180
+  image: ff499906871a 13x12 11
+\Kappa
+  line: K
+  text: f4b35f313a13
+  image: 45a786fd88c5 18x14 14
+\kappa
+  line: κ
+  text: a7be9d228ac9
+  image: 5d1e7388484b 12x10 9
+\KaTeX
+  line: KaTeX
+  text: b91a366ea843
+  image: 38f62a5381da 59x19 14
+\ker
+  line: ker
+  text: 9c8eb34efffa
+  image: 8900c998ab7b 28x15 14
+I\kern-2.5pt R
+  line: IR
+  text: c38727a227b7
+  image: 466a54354571 19x15 14
+\Ket{\psi}
+  line: |ψ⟩
+  text: 07f53264a6d2
+  image: 5404e83bc8a3 27x20 15
+\ket{\psi}
+  line: |ψ⟩
+  text: 07f53264a6d2
+  image: 5404e83bc8a3 27x20 15
+\Lambda
+  line: Λ
+  text: 326522a5f6b4
+  image: 0a67d1fd0060 14x15 15
+\lambda
+  line: λ
+  text: a9ad3ade13b3
+  image: 7e583ae3a1c5 12x15 14
+\land
+  line: ∧
+  text: 351496dfc997
+  image: f9475251f722 14x14 13
+\lang A\rangle
+  line: ⟨A⟩
+  text: e7b87106eb5e
+  image: dd5522b13d8f 31x20 15
+\langle A\rangle
+  line: ⟨A⟩
+  text: e7b87106eb5e
+  image: dd5522b13d8f 31x20 15
+\Larr
+  line: ⇐
+  text: 74ea115fea73
+  image: 3dcc5cd557e8 20x12 11
+\lArr
+  line: ⇐
+  text: 74ea115fea73
+  image: 3dcc5cd557e8 20x12 11
+\larr
+  line: ←
+  text: 230dfa4f8557
+  image: c6ee589c4d24 20x12 11
+\large large
+  line: large
+  text: 1f91bd7d0a6e
+  image: 39c08d46b21e 54x22 17
+\Large Large
+  line: Large
+  text: e4f26400fad7
+  image: f00a25a44f6a 75x26 20
+\LARGE LARGE
+  line: LARGE
+  text: f7e5285c2f9f
+  image: e45f8d3e8305 130x26 25
+\LaTeX
+  line: LaTeX
+  text: 74a9104795d3
+  image: 3c3de30270d7 52x19 14
+\lBrace
+  line: ⦃
+  text: 99a0948e3661
+  image: error unsupported
+\lbrace
+  line: {
+  text: 44d2cb680754
+  image: 5eafadf8a1fa 10x20 15
+\lbrack
+  line: [
+  text: 31837c83c287
+  image: 2d3691b7069d 6x20 15
+\lceil
+  line: ⌈
+  text: f7ba4cf39ca1
+  image: d06d325af609 9x20 15
+\ldotp
+  line: .
+  text: 19e18810565d
+  image: 13adfd164fd6 6x3 3
+\ldots
+  line: …
+  text: 97594da7360a
+  image: f367fa4d569e 17x3 3
+\le
+  line: ≤
+  text: 36823520f98a
+  image: 51006be923aa 16x16 13
+\leadsto
+  line: ⇝
+  text: 3348c3eb5f29
+  image: ef1d2a900f0b 20x12 11
+\left\lbrace \dfrac ab \right.
+  line: {a/b
+  text: 1c390285688d
+  image: cfe0e373e008 32x37 23
+\leftarrow
+  line: ←
+  text: 230dfa4f8557
+  image: c6ee589c4d24 20x12 11
+\Leftarrow
+  line: ⇐
+  text: 74ea115fea73
+  image: 3dcc5cd557e8 20x12 11
+\leftarrowtail
+  line: ↢
+  text: 972c3e91da53
+  image: 23590d261506 24x12 11
+\leftharpoondown
+  line: ↽
+  text: bb3b0a8cbe90
+  image: c5d69de421cd 21x7 6
+\leftharpoonup
+  line: ↼
+  text: d5c87d7ecda5
+  image: 65bec8b79b41 20x11 11
+\leftleftarrows
+  line: ⇇
+  text: aa110658ac17
+  image: c2977f551383 20x20 15
+\Leftrightarrow
+  line: ⇔
+  text: d322aee75ea6
+  image: f63709804c9a 20x12 11
+\leftrightarrow
+  line: ↔
+  text: b01079bda2bb
+  image: 5eb4ef32fc17 20x12 11
+\leftrightarrows
+  line: ⇆
+  text: b7ef54b89205
+  image: 92b362855c7d 21x18 14
+\leftrightharpoons
+  line: ⇋
+  text: 0f7da0a28c77
+  image: 12323f4355b3 21x14 12
+\leftrightsquigarrow
+  line: ↭
+  text: c0eead5083b6
+  image: 32a2ff8a98ae 20x12 11
+\leftthreetimes
+  line: ⋋
+  text: c9ac91e2d9b0
+  image: 767e111071b3 13x12 11
+\leq
+  line: ≤
+  text: 36823520f98a
+  image: 51006be923aa 16x16 13
+\leqq
+  line: ≦
+  text: 008457ce0dc7
+  image: 3e8b8594d6dd 16x20 15
+\leqslant
+  line: ⩽
+  text: 9ba816014e13
+  image: a50b7f285c15 16x16 13
+\lessapprox
+  line: ⪅
+  text: 406dbc70a5d4
+  image: 58abfef6fd56 16x20 15
+\lessdot
+  line: ⋖
+  text: 1da93b5b7493
+  image: cf93a338573f 16x14 12
+\lesseqgtr
+  line: ⋚
+  text: deaa49302dca
+  image: 258c19852010 16x26 18
+\lesseqqgtr
+  line: ⪋
+  text: e976ed807999
+  image: 29df16832442 16x30 20
+\lessgtr
+  line: ≶
+  text: d4f32ddaa687
+  image: 2328665e2a3e 16x20 15
+\lesssim
+  line: ≲
+  text: 538c2ff305b2
+  image: 09fc5aa75cd7 16x16 13
+\lfloor
+  line: ⌊
+  text: f0b62ad1d89d
+  image: 8b60902c12af 9x20 15
+\lg
+  line: lg
+  text: 7ea47b9c5481
+  image: af40f1e92326 16x19 14
+\lgroup
+  line: ⟮
+  text: 28d15300fd8f
+  image: bc314b82c2c7 6x22 16
+\lhd
+  line: ⊲
+  text: 24fe6b099bfe
+  image: 5887c25eea93 15x12 11
+\lim
+  line: lim
+  text: dc7de391bd22
+  image: 21f08ec0baf7 28x14 14
+\liminf
+  line: lim inf
+  text: ffc9e6b61892
+  image: 0c31f3f5794b 55x15 15
+\lim\limits_x
+  line: limₓ
+  text: b37e34aa14df
+  image: a889da8cab72 28x27 14
+\limsup
+  line: lim sup
+  text: 7a8f732ff8d9
+  image: b8ea805f2f06 62x18 14
+\ll
+  line: ≪
+  text: f64722a2091d
+  image: a84dec70a35b 20x14 12
+{=}\llap{/\,}
+  line: =/
+  text: 9b211135139d
+  image: b058f9ffd4ea 16x20 15
+\llbracket
+  line: ⟦
+  text: e143246fcc65
+  image: b5bfc9e16991 9x20 15
+\llcorner
+  line: ⌞
+  text: c03e0a3518c7
+  image: d65c8248f40f 8x7 1
+\Lleftarrow
+  line: ⇚
+  text: 53971a6a7ae2
+  image: 72fbb8be7a19 21x16 13
+\lll
+  line: ⋘
+  text: c21663252c60
+  image: fac93c92b843 26x14 12
+\llless
+  line: ⋘
+  text: c21663252c60
+  image: fac93c92b843 26x14 12
+\lmoustache
+  line: ⎰
+  text: 2202944cbda4
+  image: error unsupported
+\ln
+  line: ln
+  text: d1a1a1a5ce6e
+  image: 8361f7cf1f19 17x14 14
+\lnapprox
+  line: ⪉
+  text: 79d3afe2be95
+  image: 2d2258cc46cd 16x23 16
+\lneq
+  line: ⪇
+  text: 29e9f95eef6a
+  image: 6a853af9074d 16x18 14
+\lneqq
+  line: ≨
+  text: f43d8db91a7c
+  image: c92079abb081 16x21 15
+\lnot
+  line: ¬
+  text: dcd9b9e41245
+  image: 4b9cc13f9301 14x8 8
+\lnsim
+  line: ⋦
+  text: d77a405500b9
+  image: 7e8f618bbe34 16x19 14
+\log
+  line: log
+  text: 8f396203400f
+  image: e854fde77840 26x19 14
+\Longleftarrow
+  line: ⟸
+  text: 5b6a1dbe99ed
+  image: 025e0a396f96 30x12 11
+\longleftarrow
+  line: ⟵
+  text: 088e6677d0c5
+  image: 867a30cf5b3e 30x12 11
+\Longleftrightarrow
+  line: ⟺
+  text: d491058b8ac0
+  image: 3a33057f0ee6 31x12 11
+\longleftrightarrow
+  line: ⟷
+  text: 6ea2c38256ab
+  image: 195a31cda95a 29x12 11
+\longmapsto
+  line: ⟼
+  text: 857e880603aa
+  image: f3e33c374288 29x12 11
+\Longrightarrow
+  line: ⟹
+  text: bde336662910
+  image: 1ff36308b5c0 30x12 11
+\longrightarrow
+  line: ⟶
+  text: 916e94c62d21
+  image: 3757b6669c03 30x12 11
+\looparrowleft
+  line: ↫
+  text: fad43c6f5723
+  image: d2b5c29e49d3 20x12 11
+\looparrowright
+  line: ↬
+  text: 26007cad5a47
+  image: 569e173f2933 20x12 11
+\lor
+  line: ∨
+  text: 393c7d258a14
+  image: 4be9f587580a 14x14 13
+\lozenge
+  line: ◊
+  text: 0380bb1e57dd
+  image: be268d902685 12x16 13
+\lparen
+  line: (
+  text: 9cb4c360e771
+  image: f08bcd572e6e 8x20 15
+\Lrarr
+  line: ⇔
+  text: d322aee75ea6
+  image: f63709804c9a 20x12 11
+\lrArr
+  line: ⇔
+  text: d322aee75ea6
+  image: f63709804c9a 20x12 11
+\lrarr
+  line: ↔
+  text: b01079bda2bb
+  image: 5eb4ef32fc17 20x12 11
+\lrcorner
+  line: ⌟
+  text: b62ac7066c63
+  image: 8e1116fbb14c 8x7 1
+\lq
+  line: ‘
+  text: 130c54a02841
+  image: aa7f5180f6bc 6x14 14
+\Lsh
+  line: ↰
+  text: 1abb915df338
+  image: b368c7286fd0 12x18 14
+\lt
+  line: <
+  text: 80028760f2ba
+  image: 303b350acdfd 16x14 12
+\ltimes
+  line: ⋉
+  text: 8f0a3616ae9a
+  image: aceb5c686765 13x12 11
+\lVert
+  line: ‖
+  text: 02ed2e04a2e6
+  image: 38044f488e9a 8x20 15
+\lvert
+  line: |
+  text: 03a3e729f3e9
+  image: af71035f28cd 6x20 15
+\lvertneqq
+  line: ≨
+  text: f43d8db91a7c
+  image: c92079abb081 16x21 15
+\maltese
+  line: ✠
+  text: 7e88750fb650
+  image: e003c7f16d76 16x14 14
+\mapsfrom
+  line: ↤
+  text: e375ac8226da
+  image: 4f23ff17023e 20x12 11
+\mapsto
+  line: ↦
+  text: 51e2c54c6d25
+  image: 5b15a8b18b7c 20x12 11
+\mathbb{AB}
+  line: 𝔸𝔹
+  text: f859ebb404ce
+  image: 64dcd013cea1 25x14 14
+\mathbf{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: b6650f93789a 93x15 14
+a\mathbin{!}b
+  line: a ! b
+  text: 32f84e196991
+  image: 5c9ad0e47756 34x16 15
+\mathcal{AaBb123}
+  line: 𝒜𝒶ℬ𝒷123
+  text: 0b58905b1141
+  image: 7f6c34a1c1cd 84x16 15
+a\mathchoice{\,}{\,\,}{\,\,\,}{\,\,\,\,}b
+  line: ab
+  text: 210269557c7e
+  image: c68b36547394 23x15 14
+\sum_{\mathclap{1\le i\le n}} x_{i}
+  line: ∑_(1≤i≤n) xᵢ
+  text: 65c4ee61674d
+  image: 0eb2d6e55496 58x43 19
+a + (b\mathclose\gt + c
+  line: a + (b> + c
+  text: 1dc20ddfcfc1
+  image: cb06da30ded5 101x20 15
+\mathellipsis
+  line: …
+  text: 97594da7360a
+  image: f367fa4d569e 17x3 3
+\mathfrak{AaBb}
+  line: 𝔄𝔞𝔅𝔟
+  text: 1efda7ed3416
+  image: 7342647cf67f 53x15 14
+ab\mathinner{\text{inside}}cd
+  line: abinsidecd
+  text: 53cf6123ebff
+  image: 3c9004693028 95x15 14
+\mathit{AaBb}
+  line: AaBb
+  text: 9fc9fd929ce7
+  image: c3390ef4794b 50x16 15
+{=}\mathllap{/\,}
+  line: =/
+  text: 9b211135139d
+  image: b058f9ffd4ea 16x20 15
+\mathnormal{AaBb}
+  line: AaBb
+  text: 9fc9fd929ce7
+  image: c3390ef4794b 50x16 15
+\mathop{\star}_a^b
+  line: ⋆ₐᵇ
+  text: 3de48ec26e27
+  image: 3cf638ab4c9c 20x23 17
+a + \mathopen\lt b) + c
+  line: a + <b) + c
+  text: 14a4041d7e08
+  image: 6607bf8f6ccd 101x20 15
+1\mathord{,}234{,}567
+  line: 1,234,567
+  text: be8aa9855b7c
+  image: fa7e6d56e617 82x18 14
+A\mathpunct{-}B
+  line: A− B
+  text: 1fab8d01a850
+  image: 138538c86767 50x15 15
+\mathreflectbox{x^2}
+  line: x²
+  text: 668e759dd555
+  image: bffc2285991a 21x18 17
+a \mathrel{\#} b
+  line: a # b
+  text: c7f86d6e5c55
+  image: a01dbbe509a4 47x18 14
+\mathrlap{\,/}{=}
+  line: /=
+  text: 04ce3559a20e
+  image: bce1bb832c4a 16x20 15
+\mathring{a}
+  line: mathring(a)
+  text: 40983e44016b
+  image: 3339c15f9f4f 11x16 15
+\mathrm{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: 73251b56cd53 81x16 15
+\mathscr{AaBb123}
+  line: 𝒜𝒶ℬ𝒷123
+  text: 0b58905b1141
+  image: 7f6c34a1c1cd 84x16 15
+\mathsf{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: 54894928c142 77x15 14
+\mathsterling
+  line: £
+  text: a871fa5eb99c
+  image: e90c7f7cba26 15x15 14
+\sqrt{\mathstrut a}
+  line: √a
+  text: 796757dbbd1f
+  image: 1d03ad3a0a04 31x26 20
+\mathtt{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: baaa18a57e9d 74x14 13
+\begin{matrix*}[r] 0 & -1 \\ -1 & 0 \end{matrix*}
+  line: 0, −1; −1, 0
+  text: 7b2ecd660112
+  image: b8b7487ce251 72x48 29
+\max
+  line: max
+  text: c2f3f703c21a
+  image: 3ecff43619d1 38x10 9
+\measuredangle
+  line: ∡
+  text: c39907cbfbea
+  image: 3d3c4e225d6c 16x18 15
+a\medspace b
+  line: ab
+  text: 210269557c7e
+  image: edbae054238c 24x15 14
+\mho
+  line: ℧
+  text: 9083fe834952
+  image: 5ec09b46af34 15x15 14
+\{x∈ℝ\mid x>0\}
+  line: {x ∈ ℝ ∣ x > 0}
+  text: daa204ea386f
+  image: b2940bc143a7 134x20 15
+P\left(A\middle\vert B\right)
+  line: P(A | B)
+  text: 1994d519c832
+  image: 44f0613ea9cd 68x20 15
+\min
+  line: min
+  text: 6b06b5e8dc94
+  image: 1dd84b8844f3 34x14 14
+\minuscolon
+  line: −∶
+  text: da3d8f825349
+  image: 02a800e833a2 22x9 9
+\minuscoloncolon
+  line: −∷
+  text: ea6dc80b9af4
+  image: 52da33e29fbc 26x9 9
+\minuso
+  line: ⦵
+  text: d207e1f3fbde
+  image: error unsupported
+a\mkern18mu b
+  line: a b
+  text: dd96968e5317
+  image: a8a3a8bb284c 40x15 14
+3\equiv 5 \mod 2
+  line: 3 ≡ 5 mod 2
+  text: 10565a4610e7
+  image: 5d2b4f6cf34b 122x15 14
+\models
+  line: ⊨
+  text: 49edd00d9b0b
+  image: 37c77481b079 13x14 14
+\mp
+  line: ∓
+  text: b53e266b92f6
+  image: 57bb1cc4f8a4 16x14 12
+a\mskip{10mu}b
+  line: a b
+  text: 5aed56523840
+  image: 441043230b5a 31x15 14
+\Mu
+  line: M
+  text: c44df390add5
+  image: 760c3c2a6938 21x14 14
+\mu
+  line: μ
+  text: ddd289e2518d
+  image: ea096ac50b61 13x14 9
+\multimap
+  line: ⊸
+  text: 0b1c0fe9401a
+  image: 8f4bf660819f 19x8 8
+\N
+  line: ℕ
+  text: 13c4386d837a
+  image: 28b0d2262ee1 15x14 14
+\nabla
+  line: ∇
+  text: 9960b1426198
+  image: 39f3489746ae 17x15 14
+\natnums
+  line: ℕ
+  text: 13c4386d837a
+  image: 28b0d2262ee1 15x14 14
+\natural
+  line: ♮
+  text: 39c2e4bd4592
+  image: 4d23e6e1fe37 8x20 15
+a\negmedspace b
+  line: ab
+  text: 210269557c7e
+  image: 623bf3284803 15x15 14
+\ncong
+  line: ≇
+  text: 44bcf469d54b
+  image: b7c510f89f87 16x16 13
+\ne
+  line: ≠
+  text: 07415bf1a8f3
+  image: b0f8f97b6c47 16x20 15
+\nearrow
+  line: ↗
+  text: 24c21ce8b39c
+  image: 299a1502187a 20x20 15
+\neg
+  line: ¬
+  text: dcd9b9e41245
+  image: 4b9cc13f9301 14x8 8
+a\negthickspace b
+  line: ab
+  text: 210269557c7e
+  image: 407a4d2f6387 14x15 14
+a\negthinspace b
+  line: ab
+  text: 210269557c7e
+  image: 91e2aba8ddfe 16x15 14
+\neq
+  line: ≠
+  text: 07415bf1a8f3
+  image: b0f8f97b6c47 16x20 15
+\newcommand\chk{\checkmark} \chk
+  line: ✓
+  text: 7c020ff9f336
+  image: ddf076cc24bf 17x15 14
+a\newline b
+  line: a; b
+  text: bc3f096eed69
+  image: b41d0bf108eb 11x54 32
+\nexists
+  line: ∄
+  text: 5542709e2532
+  image: 6b175ee0587f 12x19 16
+\ngeq
+  line: ≱
+  text: 076d8895aa02
+  image: 9a6afa1f0886 16x20 15
+\ngeqq
+  line: ≱
+  text: 076d8895aa02
+  image: 9a6afa1f0886 16x20 15
+\ngeqslant
+  line: ≱
+  text: 076d8895aa02
+  image: 9a6afa1f0886 16x20 15
+\ngtr
+  line: ≯
+  text: 98ebb2d3babb
+  image: 4d93641c8c33 16x20 15
+\ni
+  line: ∋
+  text: 394dda3b8b08
+  image: c53463d54c19 14x12 11
+\nleftarrow
+  line: ↚
+  text: 87b9b63dab99
+  image: 6a04c9fd097f 20x12 11
+\nLeftarrow
+  line: ⇍
+  text: 3e9f29b4d188
+  image: 690fe0f65a02 20x12 11
+\nLeftrightarrow
+  line: ⇎
+  text: 2920d321d82d
+  image: 582190b032f3 22x12 11
+\nleftrightarrow
+  line: ↮
+  text: 48e6e6072dd1
+  image: c2979c4169ca 20x12 11
+\nleq
+  line: ≰
+  text: 4d1864e807c4
+  image: 118d157c1e04 16x20 15
+\nleqq
+  line: ≰
+  text: 4d1864e807c4
+  image: 118d157c1e04 16x20 15
+\nleqslant
+  line: ≰
+  text: 4d1864e807c4
+  image: 118d157c1e04 16x20 15
+\nless
+  line: ≮
+  text: 41dccdf0da53
+  image: dcf5a6a49c55 16x20 15
+\nmid
+  line: ∤
+  text: 398f1958718c
+  image: fd4343b20cc1 8x20 15
+a\nobreakspace b
+  line: a b
+  text: 5aed56523840
+  image: 9e87a0b73785 26x15 14
+\lim\nolimits_x
+  line: limₓ
+  text: b19a574ded42
+  image: cc618b304438 38x20 14
+\begin{align} a&=b+c \nonumber\\ d+e&=f \end{align}
+  line: a = b + c; d + e = f
+  text: 2c7a52adfb13
+  image: 4bf78a8d1df1 113x54 32
+\normalsize normalsize
+  line: normalsize
+  text: fef95cf3fe05
+  image: d77d15a189a3 100x15 14
+\not =
+  line: ≠
+  text: 07415bf1a8f3
+  image: b0f8f97b6c47 16x20 15
+\begin{align} a&=b+c \notag\\ d+e&=f \end{align}
+  line: a = b + c; d + e = f
+  text: 2c7a52adfb13
+  image: 4bf78a8d1df1 113x54 32
+\notin
+  line: ∉
+  text: 53979bbe2a74
+  image: 66902e2f45e7 14x20 15
+\notni
+  line: ∌
+  text: bf4761cc5a5c
+  image: 180c4908d43d 14x20 15
+\nparallel
+  line: ∦
+  text: c5b568ddfb38
+  image: c56ab8d07488 12x20 15
+\nprec
+  line: ⊀
+  text: e1c616b90c19
+  image: 1037c5b475a8 16x20 15
+\npreceq
+  line: ⋠
+  text: 66d339ecdd2a
+  image: d3634a3bec59 15x20 15
+\nRightarrow
+  line: ⇏
+  text: 0e2d66a66b0f
+  image: 5c08e134ee6b 20x12 11
+\nrightarrow
+  line: ↛
+  text: 8481347ecd27
+  image: f283eac361a2 20x12 11
+\nshortmid
+  line: ∤
+  text: 398f1958718c
+  image: fd4343b20cc1 8x20 15
+\nshortparallel
+  line: ∦
+  text: c5b568ddfb38
+  image: c56ab8d07488 12x20 15
+\nsim
+  line: ≁
+  text: 8867fcc335bb
+  image: 6b116e2436b8 16x10 10
+\nsubseteq
+  line: ⊈
+  text: 26238e6d7ba8
+  image: 34540ceaa429 16x20 15
+\nsubseteqq
+  line: ⊈
+  text: 26238e6d7ba8
+  image: 34540ceaa429 16x20 15
+\nsucc
+  line: ⊁
+  text: b008481ddebd
+  image: 33c9016dad3f 16x20 15
+\nsucceq
+  line: ⋡
+  text: 7c46e4fcf88d
+  image: f2ad4448aba2 15x20 15
+\nsupseteq
+  line: ⊉
+  text: a8b9e296ac33
+  image: 8137970268ae 16x20 15
+\nsupseteqq
+  line: ⊉
+  text: a8b9e296ac33
+  image: 8137970268ae 16x20 15
+\ntriangleleft
+  line: ⋪
+  text: 251d5222d15c
+  image: 6ffb8245c794 15x20 15
+\ntrianglelefteq
+  line: ⋬
+  text: 5f8c2d512659
+  image: 1fba532caf4e 15x20 15
+\ntriangleright
+  line: ⋫
+  text: 818311e2b68a
+  image: 14ad2da2c43e 15x20 15
+\ntrianglerighteq
+  line: ⋭
+  text: 4684dec7827d
+  image: 29b629e1cecc 15x20 15
+\Nu
+  line: N
+  text: 5da1f39f0ebb
+  image: d8340de16b19 18x14 14
+\nu
+  line: ν
+  text: b234268ece37
+  image: 8f29e75e8d24 11x9 9
+\nVDash
+  line: ⊯
+  text: c8828ed77cb0
+  image: 5035874e0c6e 16x14 14
+\nVdash
+  line: ⊮
+  text: d1e400821e1c
+  image: 18ffae141ac1 16x14 14
+\nvDash
+  line: ⊭
+  text: fdcdea3148d0
+  image: 306591ec05bd 15x14 14
+\nvdash
+  line: ⊬
+  text: 8d832c951aec
+  image: 7620ac262d94 12x14 14
+\nwarrow
+  line: ↖
+  text: 6b27b078761e
+  image: e42e7671847b 20x20 15
+\text{\O}
+  line: Ø
+  text: 10d0f7706809
+  image: 8de002b4b0b2 16x17 15
+\text{\o}
+  line: ø
+  text: 7c6d66ae8fe8
+  image: 8d0ee1768361 10x14 11
+\odot
+  line: ⊙
+  text: 64ad93269e6d
+  image: 13ca29a0482f 16x14 12
+\text{\OE}
+  line: Œ
+  text: 3724bac5e32b
+  image: 94afcf027af1 21x16 15
+\text{\oe}
+  line: œ
+  text: ef7e47e58706
+  image: f9874d0b9e38 16x10 9
+\oiiint
+  line: ∰
+  text: 9381087990ce
+  image: 96ded9b3e3f6 37x46 28
+\oiint
+  line: ∯
+  text: 28cb92c5c070
+  image: 3c69e4a83155 29x46 28
+\oint
+  line: ∮
+  text: ce470765aad9
+  image: 58c073874a1b 20x46 28
+\omega
+  line: ω
+  text: 835b42b2ab1e
+  image: 36052efdac06 13x10 9
+\Omega
+  line: Ω
+  text: 949321cd2934
+  image: df50343446fe 15x15 15
+\Omicron
+  line: O
+  text: b607368e7ddd
+  image: 0652d3b510be 16x16 15
+\omicron
+  line: ο
+  text: 69cea93d8d6d
+  image: 6800a7d7ce06 10x10 9
+\ominus
+  line: ⊖
+  text: 92e53b8eb285
+  image: bf8871d93c44 16x14 12
+\operatorname{asin} x
+  line: asin x
+  text: 317699a722a6
+  image: d5658c1ccbf7 50x15 14
+\operatorname*{asin}\limits_y x
+  line: asin_y x
+  text: ea7afa9adcd4
+  image: 60b13c20850c 50x30 14
+\operatornamewithlimits{asin}\limits_y x
+  line: asin_y x
+  text: ea7afa9adcd4
+  image: 60b13c20850c 50x30 14
+\oplus
+  line: ⊕
+  text: 47f29fa8a020
+  image: 5867ded01bca 16x14 12
+\origof
+  line: ⊶
+  text: a2cb488b3035
+  image: 17759987b622 22x8 8
+\oslash
+  line: ⊘
+  text: 8149b9576cf7
+  image: 1d1adca18acb 16x14 12
+\otimes
+  line: ⊗
+  text: 4ec3105ec4df
+  image: 824a113f56cb 16x14 12
+{a+1 \over b+2}+c
+  line: (a + 1)/(b + 2) + c
+  text: 96024df5e70a
+  image: 26afc5b51897 83x43 27
+\overbrace{x+⋯+x}^{n\text{ times}}
+  line: (x + ⋯ + x)^(n times)
+  text: c15334ee5daa
+  image: ef0e985a6953 88x37 35
+\overbracket{x+⋯+x}^{n\text{ times}}
+  line: (x + ⋯ + x)^(n times)
+  text: 7e4487492396
+  image: 0f3958e47184 88x35 33
+\overgroup{AB}
+  line: overgroup(AB)
+  text: 188e23c55628
+  image: 1465136f7759 31x22 22
+\overleftarrow{AB}
+  line: overleftarrow(AB)
+  text: dcc5b2287d79
+  image: 53acdb9616c1 31x20 20
+\overleftharpoon{AB}
+  line: overleftharpoon(AB)
+  text: 4d50ab445cd2
+  image: 661a60c90533 31x20 20
+\overleftrightarrow{AB}
+  line: overleftrightarrow(AB)
+  text: d92b09801535
+  image: 7d5f8ce587db 31x20 20
+\overline{\text{a long argument}}
+  line: overline(a long argument)
+  text: eee0412c4816
+  image: 97028f84eb09 144x23 18
+\overlinesegment{AB}
+  line: overlinesegment(AB)
+  text: 4b18f70689b2
+  image: 22d50fe16696 38x21 21
+\Overrightarrow{AB}
+  line: Overrightarrow(AB)
+  text: 6d19f3ee0519
+  image: f3d6858b8f01 31x28 28
+\overrightarrow{AB}
+  line: overrightarrow(AB)
+  text: b5ff395cb3fa
+  image: 85d2cd198338 31x20 20
+\overrightharpoon{ac}
+  line: overrightharpoon(ac)
+  text: afc8199a4e10
+  image: 7698f8d23f5b 20x16 15
+\overset{!}{=}
+  line: =^!
+  text: 31d6782d3b35
+  image: 60ad004dbb30 16x22 22
+\owns
+  line: ∋
+  text: 394dda3b8b08
+  image: c53463d54c19 14x12 11
+\text{\P}
+  line: ¶
+  text: e2342aca2a40
+  image: 457cecf4dc3f 13x18 14
+\parallel
+  line: ∥
+  text: 55b602f4229f
+  image: e75f9a883eb9 10x20 15
+\partial
+  line: ∂
+  text: 7fad5261f086
+  image: e50d79b443da 12x16 15
+\perp
+  line: ⊥
+  text: 18118e8572b2
+  image: aac26b5e99c0 16x14 14
+\Gamma^{\phantom{i}j}_{i\phantom{j}k}
+  line: Γᵢₖʲ
+  text: 6fcd6261a755
+  image: bf5d4a1798cb 35x29 20
+\phase{-78^\circ}
+  line: ∠(−78°)
+  text: 2192dbdca7dc
+  image: f5815829dfbb 53x18 14
+\Phi
+  line: Φ
+  text: e9b79be8d3a7
+  image: 19569d683c83 15x14 14
+\phi
+  line: ϕ
+  text: 14ac8769702b
+  image: 9d0ba6b629f8 12x19 14
+\Pi
+  line: Π
+  text: 77761b54314c
+  image: bb13d03fd5a8 15x14 14
+\pi
+  line: π
+  text: a6d9f455f12f
+  image: 22f91569e9ab 12x10 9
+\pitchfork
+  line: ⋔
+  text: 26cd43716ca7
+  image: error unsupported
+\plim
+  line: plim
+  text: a8a548bce656
+  image: b41c231f34de 39x18 14
+\plusmn
+  line: ±
+  text: d8e9b4875c75
+  image: ac6de12ed52e 16x14 12
+\pm
+  line: ±
+  text: d8e9b4875c75
+  image: ac6de12ed52e 16x14 12
+\begin{pmatrix} a & b \\ c & d \end{pmatrix}
+  line: (a, b; c, d)
+  text: 397def8f706d
+  image: daeeafa2e3ad 71x48 29
+\begin{pmatrix*}[r] 0 & -1 \\ -1 & 0 \end{pmatrix*}
+  line: (0, −1; −1, 0)
+  text: dd122bea7e51
+  image: 671a1bc15ea5 101x48 29
+\pmb{\mu}
+  line: μ
+  text: ddd289e2518d
+  image: 9e4c1a26f87d 15x15 10
+x\pmod a
+  line: x (mod a)
+  text: f918527c608b
+  image: abadb49dc7a7 103x20 15
+x \pod a
+  line: x (a)
+  text: ac22c0cde84d
+  image: baf3c36b3505 58x20 15
+\pounds
+  line: £
+  text: a871fa5eb99c
+  image: e90c7f7cba26 15x15 14
+\Pr
+  line: Pr
+  text: 2d3d1cf8782c
+  image: d6daf834c417 22x14 14
+\prec
+  line: ≺
+  text: 702e248e7a3d
+  image: 7211088be7a1 16x12 11
+\precapprox
+  line: ⪷
+  text: e830af902371
+  image: error unsupported
+\preccurlyeq
+  line: ≼
+  text: 613fab13665d
+  image: 34708eff499a 15x16 13
+\preceq
+  line: ⪯
+  text: c665a8970859
+  image: 20db993681bc 16x16 13
+\precnapprox
+  line: ⪹
+  text: 4c979197f33b
+  image: error unsupported
+\precneqq
+  line: ⪵
+  text: 9c53911419d2
+  image: error unsupported
+\precnsim
+  line: ⋨
+  text: d6dde71cdf96
+  image: 60c5447d3934 16x20 14
+\precsim
+  line: ≾
+  text: 8aa4539c1f70
+  image: 8bb4b54dce01 16x18 14
+\prime
+  line: ′
+  text: f77b5694ccdd
+  image: 6f342b57c08d 7x15 15
+\prod
+  line: ∏
+  text: 37983ce3bfc9
+  image: 7706c4fd3030 26x28 19
+\projlim
+  line: proj lim
+  text: ba1fe97c3d11
+  image: c3dff5084114 67x19 14
+\propto
+  line: ∝
+  text: 10c9719e95ab
+  image: cd0071bdb19c 16x10 9
+\providecommand\greet{\text{Hello}} \greet
+  line: Hello
+  text: 34b7002178ff
+  image: 08ca6a730e30 45x15 14
+\psi
+  line: ψ
+  text: 5904a06a4427
+  image: cdf24ec1fb08 14x19 14
+\Psi
+  line: Ψ
+  text: 805962b21ac7
+  image: 34ae0ec4f89c 16x14 14
+a\qquad\qquad{b}
+  line: a    b
+  text: 27330497c5b9
+  image: 539ab6a52212 100x15 14
+a\quad\quad{b}
+  line: a  b
+  text: e84dfd98392e
+  image: c591c086ef74 60x15 14
+\R
+  line: ℝ
+  text: b21b000ca4eb
+  image: 5aa0a257cdeb 13x14 14
+\text{\r{a}}
+  line: å
+  text: 838cb3d6c4a8
+  image: c2662faffd73 10x16 15
+h\raisebox{2pt}{$ighe$}r
+  line: higher
+  text: a2f64809bf84
+  image: cd2f8c77ca59 58x19 18
+\langle A\rang
+  line: ⟨A⟩
+  text: e7b87106eb5e
+  image: dd5522b13d8f 31x20 15
+\Rarr
+  line: ⇒
+  text: b0fba32e4326
+  image: 08e8d5d6a70e 20x12 11
+\rArr
+  line: ⇒
+  text: b0fba32e4326
+  image: 08e8d5d6a70e 20x12 11
+\rarr
+  line: →
+  text: 4170ef19cf9f
+  image: 9c368d0c2221 20x12 11
+\ratio
+  line: ∶
+  text: fbee2e3f08c0
+  image: d3e7c5acc4e0 6x9 9
+\rBrace
+  line: ⦄
+  text: ce96746627f6
+  image: error unsupported
+\rbrace
+  line: }
+  text: fed1397221d1
+  image: be88b6523474 10x20 15
+\rbrack
+  line: ]
+  text: 982318a28626
+  image: 42fd30c492cc 6x20 15
+\begin{rcases} a &\text{if } b \\ c &\text{if } d \end{rcases}
+  line: a, if b; c, if d}
+  text: 363fdc8dcbc5
+  image: 49a2663816c0 77x52 31
+\rceil
+  line: ⌉
+  text: 4d3a4a319bbe
+  image: 7f187216d6e1 9x20 15
+\Re
+  line: ℜ
+  text: 354edc7bc555
+  image: 6a620e73ad15 17x15 14
+\real
+  line: ℜ
+  text: 354edc7bc555
+  image: 6a620e73ad15 17x15 14
+\Reals
+  line: ℝ
+  text: b21b000ca4eb
+  image: 5aa0a257cdeb 13x14 14
+\reals
+  line: ℝ
+  text: b21b000ca4eb
+  image: 5aa0a257cdeb 13x14 14
+\reflectbox{$x^2$}
+  line: x²
+  text: 668e759dd555
+  image: bffc2285991a 21x18 17
+\def\hail{Hi!} \renewcommand\hail{\text{Ahoy!}} \hail
+  line: Ahoy!
+  text: af11d9b1b4d2
+  image: a801979e5a9d 53x20 15
+\restriction
+  line: ↾
+  text: d9b5dc9d88bf
+  image: 2681caf9969f 9x19 14
+\rfloor
+  line: ⌋
+  text: db8bc7309bdf
+  image: ec71a4629b20 9x20 15
+\rgroup
+  line: ⟯
+  text: 6cd15eb25dad
+  image: 008dccccb531 6x22 16
+\rhd
+  line: ⊳
+  text: 3c004df8c561
+  image: a7182a2cc6b9 15x12 11
+\Rho
+  line: P
+  text: 1c0bc744601b
+  image: 549df36c9b3d 16x14 14
+\rho
+  line: ρ
+  text: 9368d47373ce
+  image: ec949dbbb7d4 11x14 9
+\left.\dfrac a b\right)
+  line: a/b)
+  text: c03d06994b60
+  image: f91df706966a 30x37 23
+\Rightarrow
+  line: ⇒
+  text: b0fba32e4326
+  image: 08e8d5d6a70e 20x12 11
+\rightarrow
+  line: →
+  text: 4170ef19cf9f
+  image: 9c368d0c2221 20x12 11
+\rightarrowtail
+  line: ↣
+  text: a2eaa7e91f84
+  image: 4a6dd6303279 24x12 11
+\rightharpoondown
+  line: ⇁
+  text: 7fb5e81c92a9
+  image: 322daa60b075 21x7 6
+\rightharpoonup
+  line: ⇀
+  text: 096c4cc352d3
+  image: 581545ba0ede 20x11 11
+\rightleftarrows
+  line: ⇄
+  text: faf48f594419
+  image: 0a8b3de3567e 21x18 14
+\rightleftharpoons
+  line: ⇌
+  text: 6397225d494d
+  image: 675bd603a4e0 21x14 12
+\rightrightarrows
+  line: ⇉
+  text: 7f7afb5ffcc5
+  image: 0d38a066d412 20x20 15
+\rightsquigarrow
+  line: ⇝
+  text: 3348c3eb5f29
+  image: ef1d2a900f0b 20x12 11
+\rightthreetimes
+  line: ⋌
+  text: 7bdff074c425
+  image: 176c7c1080ad 13x12 11
+\risingdotseq
+  line: ≓
+  text: 80814b06b28f
+  image: c4c4b1c87a3a 16x16 13
+\rlap{\,/}{=}
+  line: /=
+  text: 04ce3559a20e
+  image: bce1bb832c4a 16x20 15
+\rm AaBb12
+  line: AaBb12
+  text: 18a3425b70da
+  image: f1ec115bce8e 71x16 15
+\rmoustache
+  line: ⎱
+  text: 09a60d887cdb
+  image: error unsupported
+\rparen
+  line: )
+  text: 49daf3e2b730
+  image: 0201a9a976c3 8x20 15
+\rq
+  line: ’
+  text: a6f395ad4cf3
+  image: 2be6c84d91ca 6x14 14
+\rrbracket
+  line: ⟧
+  text: 7d49729a60a6
+  image: ade38dbaa266 9x20 15
+\Rrightarrow
+  line: ⇛
+  text: b49642bd1ce7
+  image: a3616ca961ab 21x16 13
+\Rsh
+  line: ↱
+  text: 1a5b9a4e8c88
+  image: 36db3f3ce326 12x18 14
+\rtimes
+  line: ⋊
+  text: 298f0e64e9b3
+  image: dae9efa84b1f 13x12 11
+x\rule[6pt]{2ex}{1ex}x
+  line: xx
+  text: 05d8c622dce6
+  image: 6e410525e883 41x22 21
+\rVert
+  line: ‖
+  text: 02ed2e04a2e6
+  image: 38044f488e9a 8x20 15
+\rvert
+  line: |
+  text: 03a3e729f3e9
+  image: af71035f28cd 6x20 15
+\text{\S}
+  line: §
+  text: 51daba26304c
+  image: b14fd5e8c5dc 9x20 15
+\scriptscriptstyle \frac cd
+  line: c/d
+  text: c1207ccaf90b
+  image: c821ba41c67f 10x15 9
+\scriptsize scriptsize
+  line: scriptsize
+  text: feb18660c9df
+  image: 6976f670b92f 61x13 10
+\frac ab + {\scriptstyle \frac cd}
+  line: a/b + c/d
+  text: 07ca8e96d8c6
+  image: 11a8b900b867 51x37 23
+\sdot
+  line: ⋅
+  text: 8e6bb53ed714
+  image: 81fe95d29d8c 6x7 7
+\searrow
+  line: ↘
+  text: 15919c66b14f
+  image: 28211a81b009 20x20 15
+\sec
+  line: sec
+  text: b84c2bcc814b
+  image: 933eb5e8ed1e 26x10 9
+\text{\sect}
+  line: §
+  text: 51daba26304c
+  image: b14fd5e8c5dc 9x20 15
+\set{x| x<5}
+  line: {x ∣ x < 5}
+  text: 4e6dac37f220
+  image: 8fed715ebdf8 97x20 15
+\Set{ x | x<\frac 1 2 }
+  line: {x | x < 1/2}
+  text: 081a0031c3bf
+  image: f65b15900636 99x43 27
+\setminus
+  line: ∖
+  text: 6ed78db77cc9
+  image: c7dea8015262 12x16 13
+\sf AaBb123
+  line: AaBb123
+  text: 876f682e9562
+  image: 54894928c142 77x15 14
+\sharp
+  line: ♯
+  text: f809e03ff964
+  image: 4bb64381c275 8x20 15
+\shortmid
+  line: ∣
+  text: cb05e130ce95
+  image: af71035f28cd 6x20 15
+\shortparallel
+  line: ∥
+  text: 55b602f4229f
+  image: e75f9a883eb9 10x20 15
+\Sigma
+  line: Σ
+  text: 80892c99fc7b
+  image: 0972ca20c675 15x14 14
+\sigma
+  line: σ
+  text: eae7b870f805
+  image: 505e02b22292 12x10 9
+\sim
+  line: ∼
+  text: 3da15be2ad92
+  image: 6faa91aeeb13 16x8 8
+\simcolon
+  line: ∼∶
+  text: 8c571e5633be
+  image: 1dbbb4e0e560 22x9 9
+\simcoloncolon
+  line: ∼∷
+  text: 2f7276832713
+  image: 1f2af87580bb 26x9 9
+\simeq
+  line: ≃
+  text: 03463bf0737b
+  image: 418c6b348c9d 16x10 10
+\sin
+  line: sin
+  text: 674884fdda93
+  image: ae3785786da2 25x15 14
+\sinh
+  line: sinh
+  text: 327bc7188b68
+  image: 0d83847c59d4 36x15 14
+\sixptsize sixptsize
+  line: sixptsize
+  text: fc0d61e34b8d
+  image: f83db71bdcdd 48x11 8
+\sh
+  line: sh
+  text: 7766989d27fa
+  image: 67655159b726 19x15 14
+\small small
+  line: small
+  text: ade59e080620
+  image: f043401110f2 45x14 13
+\smallfrown
+  line: ⌢
+  text: 348117e43d61
+  image: c4ce69541df5 20x8 8
+\smallint
+  line: ∫
+  text: 13478c4c2a01
+  image: 5f86766027c0 14x24 17
+\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}
+  line: a, b; c, d
+  text: 75ae302fac6b
+  image: 542f6b834163 25x27 17
+\smallsetminus
+  line: ∖
+  text: 6ed78db77cc9
+  image: c7dea8015262 12x16 13
+\smallsmile
+  line: ⌣
+  text: 80cc6d6f7472
+  image: 4ee7568cac7e 20x8 8
+\left(x^{\smash{2}}\right)
+  line: (x²)
+  text: f997b13e3152
+  image: 437d29eeb79a 37x22 17
+\smile
+  line: ⌣
+  text: 80cc6d6f7472
+  image: 4ee7568cac7e 20x8 8
+\text{\sout{abc}}
+  line: sout(abc)
+  text: 4cb4e90e4862
+  image: 8298c36c4fc2 32x15 14
+a\space b
+  line: a b
+  text: 5aed56523840
+  image: 9e87a0b73785 26x15 14
+\spades
+  line: ♠
+  text: 62d73709e42f
+  image: 804b72cc654d 16x18 15
+\spadesuit
+  line: ♠
+  text: 62d73709e42f
+  image: 804b72cc654d 16x18 15
+\sphericalangle
+  line: ∢
+  text: db6e4d697683
+  image: cb85e2534b65 16x14 12
+\begin{equation} \begin{split} a &=b+c\\ &=e+f \end{split} \end{equation}
+  line: a = b + c; = e + f
+  text: 8b618462b8bf
+  image: 32369915e35e 83x54 32
+\sqcap
+  line: ⊓
+  text: a3d30819db39
+  image: e9f4d1b7bd5b 14x14 13
+\sqcup
+  line: ⊔
+  text: 78ae879a3c18
+  image: eb6ece4cec94 14x14 13
+\square
+  line: □
+  text: 8aeb8372abfd
+  image: 9e3a64528019 16x14 12
+\sqrt[3]{x}
+  line: ∛x
+  text: 20e46b2090e5
+  image: b01099d49f76 30x21 17
+\sqsubset
+  line: ⊏
+  text: 86fa0f7ba8e6
+  image: f718dfdaf4d8 16x12 11
+\sqsubseteq
+  line: ⊑
+  text: fd1c45eca15a
+  image: db12f61c910b 16x16 13
+\sqsupset
+  line: ⊐
+  text: 0306b95684df
+  image: ca8b2f9a0315 16x12 11
+\sqsupseteq
+  line: ⊒
+  text: bab10d48f16d
+  image: 6f1bdbec3f0f 16x16 13
+\text{\ss}
+  line: ß
+  text: 632a3c5cde32
+  image: c70e29b26427 10x16 15
+\stackrel{!}{=}
+  line: =^!
+  text: 31d6782d3b35
+  image: 60ad004dbb30 16x22 22
+\star
+  line: ⋆
+  text: 7ccd354d9aee
+  image: 4ab44abf79c8 10x10 10
+\sub
+  line: ⊂
+  text: 60fe4f86d88a
+  image: f517e12f8a56 16x12 11
+\sube
+  line: ⊆
+  text: 8490bd834727
+  image: 636b36ce1c79 16x16 13
+\Subset
+  line: ⋐
+  text: 8b2a7b65137d
+  image: b3a8e9378d09 14x12 11
+\subset
+  line: ⊂
+  text: 60fe4f86d88a
+  image: f517e12f8a56 16x12 11
+\subseteq
+  line: ⊆
+  text: 8490bd834727
+  image: 636b36ce1c79 16x16 13
+\subseteqq
+  line: ⫅
+  text: 99dee48aca68
+  image: error unsupported
+\subsetneq
+  line: ⊊
+  text: 584fd97d1b49
+  image: 37e98816c67b 16x18 13
+\subsetneqq
+  line: ⫋
+  text: 2f46e009f005
+  image: error unsupported
+\sum_{\substack{0<i<m\\0<j<n}}
+  line: ∑_(0 < i < m; 0 < j < n)
+  text: 483c44e21f20
+  image: 4a2a93e3b862 50x57 19
+\succ
+  line: ≻
+  text: ad63dec26f8d
+  image: c6e634dbeb56 16x12 11
+\succapprox
+  line: ⪸
+  text: cb8d981f15c2
+  image: error unsupported
+\succcurlyeq
+  line: ≽
+  text: 02733b98185f
+  image: e4344a9d8758 15x16 13
+\succeq
+  line: ⪰
+  text: cf2a840ed428
+  image: 475254ec75a7 16x16 13
+\succnapprox
+  line: ⪺
+  text: 342bdd9f6a7f
+  image: error unsupported
+\succneqq
+  line: ⪶
+  text: f39c0e679d5a
+  image: error unsupported
+\succnsim
+  line: ⋩
+  text: 95a7a64def2b
+  image: b59a3c448d59 16x20 14
+\succsim
+  line: ≿
+  text: 7c204017c735
+  image: dbf22eed500d 16x18 14
+\sum
+  line: ∑
+  text: 109d97e4f4cc
+  image: e463613c3c5e 29x28 19
+\sup
+  line: sup
+  text: ff0e92a1fbab
+  image: 678c4b6bd1cc 31x13 9
+\supe
+  line: ⊇
+  text: fd35666322af
+  image: 8f4db34ad22c 16x16 13
+\Supset
+  line: ⋑
+  text: d1aff23d6552
+  image: 0be1058dfcb2 14x12 11
+\supset
+  line: ⊃
+  text: fd0ac6a891b8
+  image: c90a896cedd1 16x12 11
+\supseteq
+  line: ⊇
+  text: fd35666322af
+  image: 8f4db34ad22c 16x16 13
+\supseteqq
+  line: ⫆
+  text: 2580db133e28
+  image: error unsupported
+\supsetneq
+  line: ⊋
+  text: 46839655cbe6
+  image: b5b11f7ac99d 16x18 13
+\supsetneqq
+  line: ⫌
+  text: f7073ecf4d7c
+  image: error unsupported
+\surd
+  line: √
+  text: 90ce0197cd73
+  image: 93978e3cc7a5 18x21 1
+\swarrow
+  line: ↙
+  text: f39b9ce772e8
+  image: 2bac60de045d 20x20 15
+\tag{3.1c} a^2+b^2=c^2
+  line: a² + b² = c²  (3.1c)
+  text: dba7fc379b98
+  image: 113ff890ec8e 177x22 17
+\tag*{3.1c} a^2+b^2=c^2
+  line: a² + b² = c²  3.1c
+  text: 39e796cc4ae7
+  image: fe387203bcda 162x19 17
+\tan
+  line: tan
+  text: 1630f54aa1f1
+  image: fca6c0b238e7 29x14 13
+\tanh
+  line: tanh
+  text: a9052bd58b6f
+  image: 6bda30fd0a00 41x15 14
+\Tau
+  line: T
+  text: 802c48701815
+  image: 1724bbc70039 15x14 14
+\tau
+  line: τ
+  text: ee17114cb894
+  image: c412e28f0aef 11x10 9
+\tbinom n k
+  line: (n choose k)
+  text: 5f2ae0afae83
+  image: f500b5db0b1f 32x24 16
+\TeX
+  line: TeX
+  text: d44629b27030
+  image: f66702c71d7b 38x19 14
+\text{ yes }\&\text{ no }
+  line: yes & no
+  text: 8381f50f176a
+  image: e6cf3a725dec 91x20 15
+\text{\textasciitilde}
+  line: ~
+  text: ca4e6b755ffa
+  image: 4d8458c93a15 12x7 7
+\text{\textasciicircum}
+  line: ^
+  text: 0bf654556fc7
+  image: 8cd37743497c 13x15 15
+\text{\textbackslash}
+  line: \
+  text: 41de65ad1c9c
+  image: 13f5be721150 10x20 15
+\text{\textbar}
+  line: |
+  text: 03a3e729f3e9
+  image: af71035f28cd 6x20 15
+\text{\textbardbl}
+  line: ‖
+  text: 02ed2e04a2e6
+  image: 38044f488e9a 8x20 15
+\textbf{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: b6650f93789a 93x15 14
+\text{\textbraceleft}
+  line: {
+  text: 44d2cb680754
+  image: 5eafadf8a1fa 10x20 15
+\text{\textbraceright}
+  line: }
+  text: fed1397221d1
+  image: be88b6523474 10x20 15
+\text{\textcircled a}
+  line: ⓐ
+  text: 0f137b2ee178
+  image: da8af752f560 16x17 13
+\textcolor{blue}{F=ma}
+  line: F = ma
+  text: 3bf51d47ae52
+  image: b0bbaa862f02 68x15 14
+\text{\textdagger}
+  line: †
+  text: d49746186e9e
+  image: 5c03f690de0e 9x20 15
+\text{\textdaggerdbl}
+  line: ‡
+  text: 431d13d90ff0
+  image: 086f53495c4d 9x20 15
+\text{\textdegree}
+  line: °
+  text: 52ae304ee5eb
+  image: df2a4c1c6b3a 8x14 14
+\text{\textellipsis}
+  line: …
+  text: 97594da7360a
+  image: f367fa4d569e 17x3 3
+\text{\textemdash}
+  line: —
+  text: 14c74ae9a55c
+  image: 78b4aafff620 20x6 6
+\text{\textendash}
+  line: –
+  text: 13e3847c978e
+  image: 7b96aa252132 10x6 6
+\text{\textgreater}
+  line: >
+  text: ae69a8737962
+  image: f3f97b1b49e1 16x14 12
+\textit{AaBb}
+  line: AaBb
+  text: 9fc9fd929ce7
+  image: c3390ef4794b 50x16 15
+\text{\textless}
+  line: <
+  text: 80028760f2ba
+  image: 303b350acdfd 16x14 12
+\textmd{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: 73251b56cd53 81x16 15
+\textnormal{AB}
+  line: AB
+  text: ef22223857ec
+  image: 82c8d398f3e3 30x15 15
+\text{\textquotedblleft}
+  line: “
+  text: 662181b67af2
+  image: bae2b704c28b 10x14 14
+\text{\textquotedblright}
+  line: ”
+  text: ce376e60565e
+  image: 54b0fff85ad3 10x14 14
+\text{\textquoteleft}
+  line: ‘
+  text: 130c54a02841
+  image: aa7f5180f6bc 6x14 14
+\text{\textquoteright}
+  line: ’
+  text: a6f395ad4cf3
+  image: 2be6c84d91ca 6x14 14
+\text{\textregistered}
+  line: ®
+  text: fa94503615f3
+  image: 764ec632d020 14x14 14
+\textrm{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: 73251b56cd53 81x16 15
+\textsf{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: 54894928c142 77x15 14
+\text{\textsterling}
+  line: £
+  text: a871fa5eb99c
+  image: e90c7f7cba26 15x15 14
+\textstyle\sum_0^n
+  line: ∑₀ⁿ
+  text: e19e2472ca08
+  image: a636ca394dae 33x27 17
+\texttt{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: baaa18a57e9d 74x14 13
+\text{\textunderscore}
+  line: _
+  text: 64e264caec44
+  image: 5bbae0a325aa 7x3 0
+\textup{AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: 73251b56cd53 81x16 15
+\tfrac ab
+  line: a/b
+  text: 579462a64b71
+  image: 2d7cd7b84428 14x23 15
+\tg
+  line: tg
+  text: 4a3df3cb4406
+  image: a91bc0c43d5f 18x18 13
+\th
+  line: th
+  text: 6827e5f3b5d6
+  image: 385dae7f9612 19x15 14
+\therefore
+  line: ∴
+  text: 7ec10a8b43af
+  image: 77dc43286e1e 11x9 9
+\Theta
+  line: Θ
+  text: f7e43c047fd4
+  image: 3ac5da260f5e 16x16 15
+\theta
+  line: θ
+  text: b091c57478bd
+  image: 9e2ea50621df 10x16 15
+\thetasym
+  line: ϑ
+  text: 5ebd88b8acca
+  image: c49af9f61413 12x16 15
+\thickapprox
+  line: ≈
+  text: 2a7e12aa5532
+  image: a4539eb025aa 16x10 10
+\thicksim
+  line: ∼
+  text: 3da15be2ad92
+  image: 6faa91aeeb13 16x8 8
+a\thickspace b
+  line: a b
+  text: 5aed56523840
+  image: abb44e2b4a17 25x15 14
+a\thinspace b
+  line: ab
+  text: 210269557c7e
+  image: c68b36547394 23x15 14
+\tilde M
+  line: tilde(M)
+  text: a0bd70b863ef
+  image: ca789096c2b7 21x20 20
+\times
+  line: ×
+  text: 5f85d1f8cab8
+  image: 80178a7a5040 16x10 10
+\tiny tiny
+  line: tiny
+  text: 865234df5644
+  image: 0b1b47d89b70 18x10 7
+\to
+  line: →
+  text: 4170ef19cf9f
+  image: 9c368d0c2221 20x12 11
+\top
+  line: ⊤
+  text: 43e07fb9a9f7
+  image: 69c74ffee58e 16x15 14
+\triangle
+  line: △
+  text: 000402b872d0
+  image: 3c240a7f640d 20x16 15
+\triangledown
+  line: ▿
+  text: 2fc51c8f4f42
+  image: 79d606a34b5a 20x16 11
+\triangleleft
+  line: ◃
+  text: 664eafeadd4a
+  image: 44a918418143 18x18 14
+\trianglelefteq
+  line: ⊴
+  text: 588fcf1bc499
+  image: f91fda5d7c24 15x16 13
+\triangleq
+  line: ≜
+  text: e72b3ce3efdc
+  image: f60949af0e26 16x17 17
+\triangleright
+  line: ▹
+  text: de4cdb11005a
+  image: 3d90de088dc7 18x18 14
+\trianglerighteq
+  line: ⊵
+  text: 31edf98d0313
+  image: ccfa0d1f8595 15x16 13
+{\tt AaBb123}
+  line: AaBb123
+  text: 876f682e9562
+  image: baaa18a57e9d 74x14 13
+\twoheadleftarrow
+  line: ↞
+  text: 5c15133928e5
+  image: 10cc3a252010 21x12 11
+\twoheadrightarrow
+  line: ↠
+  text: 584984e1d508
+  image: 2a2d859cc525 21x12 11
+\text{\u{a}}
+  line: ă
+  text: e6a229625290
+  image: c2a29938eb62 10x15 14
+\Uarr
+  line: ⇑
+  text: c02455dc3954
+  image: 3221a10dc421 13x19 14
+\uArr
+  line: ⇑
+  text: c02455dc3954
+  image: 3221a10dc421 13x19 14
+\uarr
+  line: ↑
+  text: 8fba684d6315
+  image: 780edcb814fb 10x19 14
+\ulcorner
+  line: ⌜
+  text: 655bba43468b
+  image: fb7134ab144e 8x16 16
+\underbar{X}
+  line: underline(X)
+  text: 195144ceb116
+  image: 6d232365eb59 18x18 14
+\underbrace{x+⋯+x}_{n\text{ times}}
+  line: (x + ⋯ + x)_(n times)
+  text: a0eb7a8c59e5
+  image: c45cc9cc5927 88x36 12
+\underbracket{x+⋯+x}_{n\text{ times}}
+  line: (x + ⋯ + x)_(n times)
+  text: 409f8a5854e6
+  image: b2a221c2982f 88x34 12
+\undergroup{AB}
+  line: undergroup(AB)
+  text: c713b37dd623
+  image: 79576052bc76 31x22 15
+\underleftarrow{AB}
+  line: underleftarrow(AB)
+  text: a0aafd8434f0
+  image: 1dcd5d1d558d 31x21 15
+\underleftrightarrow{AB}
+  line: underleftrightarrow(AB)
+  text: a1c0f3467936
+  image: 99f6e7748563 31x21 15
+\underrightarrow{AB}
+  line: underrightarrow(AB)
+  text: af47be901676
+  image: 36b25adbf769 31x21 15
+\underline{\text{a long argument}}
+  line: underline(a long argument)
+  text: f66ef668f056
+  image: d03d62b37ee7 144x23 14
+\underlinesegment{AB}
+  line: underline(AB)
+  text: fbb15b7e80df
+  image: ef2a2b4ea677 31x19 15
+\underset{!}{=}
+  line: =_!
+  text: 653144927ce0
+  image: 617706a69f68 16x22 8
+\unlhd
+  line: ⊴
+  text: 588fcf1bc499
+  image: f91fda5d7c24 15x16 13
+\unrhd
+  line: ⊵
+  text: 31edf98d0313
+  image: ccfa0d1f8595 15x16 13
+\Uparrow
+  line: ⇑
+  text: c02455dc3954
+  image: 3221a10dc421 13x19 14
+\uparrow
+  line: ↑
+  text: 8fba684d6315
+  image: 780edcb814fb 10x19 14
+\Updownarrow
+  line: ⇕
+  text: 6f102bf19cb9
+  image: 3741b87eb12f 13x20 15
+\updownarrow
+  line: ↕
+  text: e01850b712be
+  image: cbf50f4bcea4 10x22 16
+\upharpoonleft
+  line: ↿
+  text: d45fc8501b57
+  image: 0fca09888ecd 9x19 14
+\upharpoonright
+  line: ↾
+  text: d9b5dc9d88bf
+  image: 2681caf9969f 9x19 14
+\uplus
+  line: ⊎
+  text: 9caebee930de
+  image: fa8ca2f355b2 14x14 13
+\Upsilon
+  line: Υ
+  text: 4eacf1f511e9
+  image: 9bc921cec558 16x15 15
+\upsilon
+  line: υ
+  text: 31794de7b4f3
+  image: fd3d3ffa629b 11x10 9
+\upuparrows
+  line: ⇈
+  text: a8c5f2a866be
+  image: 83b1efaf3e78 20x19 14
+\urcorner
+  line: ⌝
+  text: b949c45eea8c
+  image: 9b504820134e 8x16 16
+\url{https://katex.org/}
+  line: https://katex.org/
+  text: 10cbb6d0a7a1
+  image: c6434573aeaf 178x20 15
+\utilde{AB}
+  line: utilde(AB)
+  text: 82b003c72012
+  image: 20d68ca4e8d5 32x22 15
+\text{\v{a}}
+  line: ǎ
+  text: 7b9f92d13422
+  image: c1d2c2cc501f 10x16 15
+\varDelta
+  line: 𝛥
+  text: 8044321204bf
+  image: b51a75c38501 17x15 15
+\varepsilon
+  line: ε
+  text: 5ef3c958b03b
+  image: f961531b96c9 10x11 10
+\varGamma
+  line: 𝛤
+  text: 1620d4dee091
+  image: 8d16ad934d35 15x14 14
+\varinjlim
+  line: underrightarrow(lim)
+  text: 4b6ffa5ae39e
+  image: c688775e686a 28x20 14
+\varkappa
+  line: ϰ
+  text: b0e9be3b3dfb
+  image: 49332416e94a 13x10 9
+\varLambda
+  line: 𝛬
+  text: 3c93bea20f65
+  image: 301a606f814e 14x15 15
+\varliminf
+  line: underline(lim)
+  text: 762a224a6dd1
+  image: 8c08f8c14146 28x18 14
+\varlimsup
+  line: overline(lim)
+  text: 6e04d45907b8
+  image: c87668831f79 28x18 18
+\varnothing
+  line: ∅
+  text: 218601471555
+  image: 54d8c9b64070 10x18 16
+\varOmega
+  line: 𝛺
+  text: 30688e39d02d
+  image: dbdf4bc46d24 16x15 15
+\varPhi
+  line: 𝛷
+  text: a13357017153
+  image: beda5aa380d5 14x14 14
+\varphi
+  line: φ
+  text: 5212891cbf81
+  image: 843eef51d3e2 14x14 9
+\varPi
+  line: 𝛱
+  text: 1a862280cead
+  image: b5b7475f7327 18x14 14
+\varpi
+  line: ϖ
+  text: 6fdd6fdddb52
+  image: 42469ebb942f 17x10 9
+\varprojlim
+  line: underleftarrow(lim)
+  text: 5ab28da777ef
+  image: 7a73c238577d 28x20 14
+\varpropto
+  line: ∝
+  text: 10c9719e95ab
+  image: cd0071bdb19c 16x10 9
+\varPsi
+  line: 𝛹
+  text: 6c02b67492e2
+  image: 28815c39662d 14x14 14
+\varrho
+  line: ϱ
+  text: e32716d960db
+  image: 753fa01006f7 11x13 9
+\varSigma
+  line: 𝛴
+  text: fc6f104c9e23
+  image: 4cc1e13ba7bf 17x14 14
+\varsigma
+  line: ς
+  text: edea13979201
+  image: 4457c14dd780 9x12 9
+\varsubsetneq
+  line: ⊊
+  text: 584fd97d1b49
+  image: 37e98816c67b 16x18 13
+\varsubsetneqq
+  line: ⫋
+  text: 2f46e009f005
+  image: error unsupported
+\varsupsetneq
+  line: ⊋
+  text: 46839655cbe6
+  image: b5b11f7ac99d 16x18 13
+\varsupsetneqq
+  line: ⫌
+  text: f7073ecf4d7c
+  image: error unsupported
+\varTheta
+  line: 𝛩
+  text: 6085ccfacabc
+  image: 5bc02983f674 16x16 15
+\vartheta
+  line: ϑ
+  text: 5ebd88b8acca
+  image: c49af9f61413 12x16 15
+\vartriangle
+  line: △
+  text: 000402b872d0
+  image: 3c240a7f640d 20x16 15
+\vartriangleleft
+  line: ⊲
+  text: 24fe6b099bfe
+  image: 5887c25eea93 15x12 11
+\vartriangleright
+  line: ⊳
+  text: 3c004df8c561
+  image: a7182a2cc6b9 15x12 11
+\varUpsilon
+  line: 𝛶
+  text: 3bcae0909c75
+  image: 00d9301f1529 15x15 15
+\varXi
+  line: 𝛯
+  text: 11061e42a966
+  image: 1742c26d10cf 16x14 14
+\mathrel{\vcentcolon =}
+  line: ∶=
+  text: 251f1209d7bd
+  image: 1ad0b35f5f01 22x9 9
+a+\left(\vcenter{\hbox{$\frac{\frac a b}c$}}\right)
+  line: a + ((a/b)/c)
+  text: 81369a4af8d5
+  image: 875c42e202f9 80x44 27
+a+\left(\vcenter{\frac{\frac a b}c}\right)
+  line: a + ((a/b)/c)
+  text: 81369a4af8d5
+  image: 875c42e202f9 80x44 27
+\Vdash
+  line: ⊩
+  text: e68537ebc7cd
+  image: 09e16d1fe1fd 14x14 14
+\vDash
+  line: ⊨
+  text: 49edd00d9b0b
+  image: 37c77481b079 13x14 14
+\vdash
+  line: ⊢
+  text: 180b53795e09
+  image: 7dc5a4e4724d 13x14 14
+\vdots
+  line: ⋮
+  text: 0671ac121509
+  image: 3a042e2d5931 5x14 12
+\vec{F}
+  line: vec(F)
+  text: 632c47eb6b76
+  image: d717b76388a4 16x19 19
+\vee
+  line: ∨
+  text: 393c7d258a14
+  image: 4be9f587580a 14x14 13
+\veebar
+  line: ⊻
+  text: 82fcf56ca7da
+  image: 3eab093b2502 13x15 12
+\verb!\frac a b!
+  line: \frac a b
+  text: b1264ed44809
+  image: c8f2cd1d6ac7 87x20 15
+\begin{Vmatrix} a & b \\ c & d \end{Vmatrix}
+  line: ‖a, b; c, d‖
+  text: 9a0217b75e18
+  image: 3421d6662ff6 57x52 31
+\begin{Vmatrix*}[r] 0 & -1 \\ -1 & 0 \end{Vmatrix*}
+  line: ‖0, −1; −1, 0‖
+  text: 2612542dd968
+  image: 904233313993 87x52 31
+\begin{vmatrix} a & b \\ c & d \end{vmatrix}
+  line: |a, b; c, d|
+  text: 4afb172cf729
+  image: cb099b50cf95 53x52 31
+\begin{vmatrix*}[r] 0 & -1 \\ -1 & 0 \end{vmatrix*}
+  line: |0, −1; −1, 0|
+  text: 5d3ca9404141
+  image: 29d242f0987c 83x52 31
+\overline{\vphantom{M}a}
+  line: overline(a)
+  text: e1cb5c9ee94c
+  image: 5b0978504a87 11x19 18
+\Vvdash
+  line: ⊪
+  text: 90f84000805b
+  image: c18b8468dde9 17x14 14
+\wedge
+  line: ∧
+  text: 351496dfc997
+  image: f9475251f722 14x14 13
+\weierp
+  line: ℘
+  text: d2c7d16ec599
+  image: 06e4e4ce6206 13x15 10
+\widecheck{AB}
+  line: widecheck(AB)
+  text: 6b7d1b6ee3b3
+  image: 89917e49205d 32x21 21
+\widehat{AB}
+  line: widehat(AB)
+  text: 96c995e174a8
+  image: 12164df419a0 32x21 21
+\widetilde{AB}
+  line: widetilde(AB)
+  text: 40d4e30e3518
+  image: 863323b9d44b 33x21 21
+\wp
+  line: ℘
+  text: d2c7d16ec599
+  image: 06e4e4ce6206 13x15 10
+\wr
+  line: ≀
+  text: e654eef9c45c
+  image: eff755ec135b 6x14 12
+\xcancel{ABC}
+  line: xcancel(ABC)
+  text: 12357045356f
+  image: 7e19f8e60138 47x16 15
+\def\foo{a}\xdef\fcopy{\foo}\def\foo{}\fcopy
+  line: a
+  text: 6f3d685d8931
+  image: 5b0497daf41f 11x10 9
+\Xi
+  line: Ξ
+  text: 297abc796570
+  image: 1f4d86e105e8 14x14 14
+\xi
+  line: ξ
+  text: 4d3ae21bc3ed
+  image: e53ac977803a 9x19 14
+\xhookleftarrow{abc}
+  line: ↩ᵃᵇᶜ
+  text: 7b1450fe2280
+  image: 61b7431f1099 39x25 24
+\xhookrightarrow{abc}
+  line: ↪ᵃᵇᶜ
+  text: 51edfa6dbb37
+  image: 07f2fb396249 39x25 24
+\xLeftarrow{abc}
+  line: ⇐ᵃᵇᶜ
+  text: cc9d6cc8c29d
+  image: fe3e25f45897 39x24 23
+\xleftarrow{abc}
+  line: ←ᵃᵇᶜ
+  text: 91771109d6b2
+  image: 61a6bb8f81a6 39x24 23
+\xleftharpoondown{abc}
+  line: ↽ᵃᵇᶜ
+  text: 7b330a414b6c
+  image: 390dbee62220 39x19 18
+\xleftharpoonup{abc}
+  line: ↼ᵃᵇᶜ
+  text: 332e134a3ec7
+  image: 8de2c4126f6a 39x23 23
+\xLeftrightarrow{abc}
+  line: ⇔ᵃᵇᶜ
+  text: 9db75c43ad2d
+  image: 9c9e3c51f616 39x24 23
+\xleftrightarrow{abc}
+  line: ↔ᵃᵇᶜ
+  text: dcb54386af11
+  image: 5879596f0c26 39x24 23
+\xleftrightharpoons{abc}
+  line: ⇋ᵃᵇᶜ
+  text: 46cf7066dafd
+  image: ad99fafea3dc 39x27 25
+\xlongequal{abc}
+  line: =ᵃᵇᶜ
+  text: dea6d66fb1b6
+  image: f88115e586fa 39x20 20
+\xmapsto{abc}
+  line: ↦ᵃᵇᶜ
+  text: d4f798febdb6
+  image: 82cbdf98a5e1 39x24 23
+\xRightarrow{abc}
+  line: ⇒ᵃᵇᶜ
+  text: 1bbb219863a2
+  image: f4500f20dba3 39x24 23
+\xrightarrow{abc}
+  line: →ᵃᵇᶜ
+  text: fc2a43cf18e4
+  image: 71b12ad9752b 39x24 23
+\xrightharpoondown{abc}
+  line: ⇁ᵃᵇᶜ
+  text: 49c2323ed402
+  image: 895c60de883b 39x19 18
+\xrightharpoonup{abc}
+  line: ⇀ᵃᵇᶜ
+  text: ecd7ff020ae9
+  image: 118a97fe2746 39x23 23
+\xrightleftharpoons{abc}
+  line: ⇌ᵃᵇᶜ
+  text: f019297a6e24
+  image: f77754ebaf38 39x27 25
+\xtofrom{abc}
+  line: ⇄ᵃᵇᶜ
+  text: ac9425cae06f
+  image: 44bf531efc2e 39x30 26
+\xtwoheadleftarrow{abc}
+  line: ↞ᵃᵇᶜ
+  text: cde9ee957c3a
+  image: cd3c4a79bb3a 39x24 23
+\xtwoheadrightarrow{abc}
+  line: ↠ᵃᵇᶜ
+  text: 3cacaeca7f16
+  image: 738354251852 39x24 23
+\yen
+  line: ¥
+  text: 21d221d1294d
+  image: 7a1654ca2b90 15x14 14
+\Z
+  line: ℤ
+  text: 81af479615bb
+  image: e87dd7a97544 14x14 14
+\Zeta
+  line: Z
+  text: feed4cfecd67
+  image: d1ef077b1a69 15x14 14
+\zeta
+  line: ζ
+  text: d4922ae0f078
+  image: 02ce6c0b7b90 10x19 14
+a\allowbreak b
+  line: ab
+  text: 210269557c7e
+  image: 5f3acc07ec78 20x15 14
+a\nobreak b
+  line: ab
+  text: 210269557c7e
+  image: 5f3acc07ec78 20x15 14
+a\relax b
+  line: ab
+  text: 210269557c7e
+  image: 5f3acc07ec78 20x15 14
+\let\foo=\frac \foo12
+  line: 1/2
+  text: 6d5d85af7f06
+  image: 97bf0c3a67ea 15x41 27
+\long\def\a{x}\a
+  line: x
+  text: 924145137571
+  image: f3de280c7885 12x10 9
+\def\b{y}\def\a{\b}\expandafter\a
+  line: y
+  text: 77d89cff74d1
+  image: 996abadf5e88 10x14 9
+\def\b{B}\futurelet\a\b c
+  line: Bc
+  text: 8ea4986b03d1
+  image: a1ccb3edd319 24x15 14
+$x_1 x_2 \dotsm x_n
+  line: error syntax
+  text: error syntax
+  image: error syntax
+\ce{C6H5-CHO}
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\pu{123 kJ//mol}
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\includegraphics[height=0.8em]{x.png}
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\label{eq} x
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\eqref{eq}
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\sideset{_a^b}{_c^d}\sum
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\prescript{14}{6}{C}
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\sqrt[\leftroot{2}3]{x}
+  line: error unsupported
+  text: error unsupported
+  image: error unsupported
+\newcommand\u[1]{\url{#1}}\u{abc}
+  line: abc
+  text: b4e7b955b300
+  image: 4218799326a1 32x14 13
+\def\u#1{\url{http://x/#1}}\u{a\%b}
+  line: http://x/a%b
+  text: c3581a85a5e8
+  image: f17933765ef5 126x20 15
+\renewcommand\url[1]{[#1]}\url{a%b}
+  line: [a]
+  text: 75f49af6ad0a
+  image: 3dee3fc55c02 22x20 15
+\url{http://a/%20b#x}
+  line: http://a/%20b#x
+  text: 56cc90ad0dae
+  image: 6a5e75844919 164x20 15
+\def\a{\def\b##1{[##1]}}\a\b{x}
+  line: [x]
+  text: 797a30a8493e
+  image: 4841931c016a 23x20 15
+\def\a#1{\def\b##1{#1##1}}\a{p}\b{q}
+  line: pq
+  text: d43c7598683f
+  image: e5a971d9a5f0 21x13 9
+\providecommand\frac{F}\frac12
+  line: 1/2
+  text: 6d5d85af7f06
+  image: 97bf0c3a67ea 15x41 27
+\providecommand\\{+}\begin{matrix}a\\b\end{matrix}
+  line: a; b
+  text: bc3f096eed69
+  image: a492083bd644 11x48 29
+\newcommand\x{X}\newcommand\x{Y}\x
+  line: error syntax
+  text: error syntax
+  image: error syntax
+\newcommand{\R}{\mathbb{R}}\R
+  line: ℝ
+  text: b21b000ca4eb
+  image: 5aa0a257cdeb 13x14 14
+\def\x{b}\begin{matrix}\def\x{a}\end{matrix}\x
+  line: b
+  text: d3aab31d0c49
+  image: 12be219bc410 9x24 17
+a\def\x{1}\\ \x \def\y{2}\\ \y
+  line: a; 1; 2
+  text: b7f4ccd00386
+  image: b8882a2a5536 11x84 47
+\begin{align}a&=b\tag{1}\end{align}+1
+  line: error syntax
+  text: error syntax
+  image: error syntax
+\begin{align}a&=b\tag{1}\\c&=d\tag{2}\end{align}\tag{3}
+  line: a = b  (1); c = d  (2)  (3)
+  text: 7d375fd5f3cb
+  image: de57a418ed88 139x54 32
+\text{定⃣}
+  line: 定⃣
+  text: e2e4875d41ac
+  image: error unsupported
+\not\notag
+  line: error syntax
+  text: error syntax
+  image: error syntax
+\char"7B x
+  line: {x
+  text: c25ae353e8a0
+  image: 64f5198ac1dc 22x20 15
+\text{a\verb!x!b}
+  line: axb
+  text: 139a3c6c67ef
+  image: 1055c4927241 32x15 14
+\edef\a{\def\b{x}}\a\b
+  line: x
+  text: 924145137571
+  image: f3de280c7885 12x10 9
+\color{#1a2b3c}x
+  line: x
+  text: 924145137571
+  image: 712cdd7349ff 12x10 9

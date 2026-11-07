@@ -1,0 +1,2 @@
+⟨ψ||ϕ⟩⟨ϕ|ψ⟩⟨ϕ | ∂²/(∂t²) | ψ⟩{x ∣ x < 5}{x | x < 1/2}a_(angl(n))∠(−78°)TeX LaTeX KaTeX underline(lim)ₙ overline(lim)ₙ underrightarrow(lim)ₙ underleftarrow(lim)ₙ plimₙ xₙμ
+⟨ψ||ϕ⟩⟨ϕ|ψ⟩⟨ϕ | ∂^2/(∂t^2) | ψ⟩{x ∣ x < 5}{x | x < 1/2}a_(angl(n))∠(-78^∘)TeX LaTeX KaTeX underline(lim)_n overline(lim)_n underrightarrow(lim)_n underleftarrow(lim)_n plim_n x_nμ

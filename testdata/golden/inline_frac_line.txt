@@ -1,0 +1,2 @@
+f(x) = a/b + (n choose 2)(1, 2)
+f(x) = a/b + (n choose 2)(1, 2)

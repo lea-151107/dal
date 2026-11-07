@@ -1,0 +1,2 @@
+overgroup(AB) undergroup(AB) Overrightarrow(AB) overleftharpoon(AB) overrightharpoon(ac) overlinesegment(AB) utilde(AB) underrightarrow(AB) underleftarrow(AB) underleftrightarrow(AB) underline(X) ddddot(x) (x + y)ⁿ (x + y)ₘ ⇄ᵃᵇᶜ ⇋_d^(abc)
+overgroup(AB) undergroup(AB) Overrightarrow(AB) overleftharpoon(AB) overrightharpoon(ac) overlinesegment(AB) utilde(AB) underrightarrow(AB) underleftarrow(AB) underleftrightarrow(AB) underline(X) ddddot(x) (x + y)^n (x + y)_m ⇄^(abc) ⇋_d^(abc)

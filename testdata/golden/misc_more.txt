@@ -1,0 +1,4 @@
+             ╱ │ ∂²  │ ╲           ⎧ │     1 ⎫                            ___
+> ⟨ψ||ϕ⟩⟨ϕ|ψ⟩<ϕ│─────│ψ>{x ∣ x < 5}⎨x│x < ───⎬a  ∠−78°TeX LaTeX KaTeX lim lim lim lim plim xₙμ
+             ╲ │ ∂t² │ ╱           ⎩ │     2 ⎭ ─┐                     ‾‾‾  n  ──→ ←──  n
+                                               n│                      n       n   n

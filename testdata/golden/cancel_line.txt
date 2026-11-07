@@ -1,0 +1,2 @@
+cancel(x) + bcancel(y) + xcancel(z)
+cancel(x) + bcancel(y) + xcancel(z)

@@ -1,0 +1,1029 @@
+# image text line
+# all three outputs: 967 of 995 (out of scope and regressions excluded)
+## KaTeX support table
+ok ok ok	n!
+ok ok ok	a\!b
+ok ok ok	\def\sqr#1{#1^2} \sqr{y}
+ok ok ok	\#
+ok ok ok	%this is a comment
+ok ok ok	\%
+ok ok ok	\begin{matrix} a & b \\ c & d \end{matrix}
+ok ok ok	\&
+ok ok ok	'
+ok ok ok	\text{\'{a}}
+ok ok ok	(
+ok ok ok	)
+ok ok ok	\text{\(\frac a b\)}
+ok ok ok	a\ b
+ok ok ok	\text{\"{a}}
+ok ok ok	\text{\textdollar}
+ok ok ok	a\,\,{b}
+ok ok ok	\text{\.{a}}
+ok ok ok	a\:\:{b}
+ok ok ok	\;\;{b}
+ok ok ok	x_i
+ok ok ok	\_
+ok ok ok	<
+ok ok ok	\text{\={a}}
+ok ok ok	>
+ok ok ok	a\>\>{b}
+ok ok ok	[
+ok ok ok	]
+ok ok ok	{a}
+ok ok ok	\{
+ok ok ok	\}
+ok ok ok	\vert
+ok ok ok	\Vert
+ok ok ok	\text{no~no~no~breaks}
+ok ok ok	\text{\~{a}}
+ok ok ok	x^i
+ok ok ok	\text{\^{a}}
+ok ok ok	\text{\AA}
+ok ok ok	\text{\aa}
+ok ok ok	{a \above{2pt} b+1}
+ok ok ok	\acute e
+ok ok ok	\text{\AE}
+ok ok ok	\text{\ae}
+ok ok ok	\alef
+ok ok ok	\alefsym
+ok ok ok	\aleph
+ok ok ok	\begin{align} a&=b+c \\ d+e&=f \end{align}
+ok ok ok	\begin{align*} a&=b+c \\ d+e&=f \end{align*}
+ok ok ok	\begin{aligned} a&=b+c \\ d+e&=f \end{aligned}
+ok ok ok	\begin{alignat}{2} 10&x+ &3&y = 2 \\ 3&x+&13&y = 4 \end{alignat}
+ok ok ok	\begin{alignat*}{2} 10&x+ &3&y = 2 \\ 3&x+&13&y = 4 \end{alignat*}
+ok ok ok	\begin{alignedat}{2} 10&x+ &3&y = 2 \\ 3&x+&13&y = 4 \end{alignedat}
+ok ok ok	\Alpha
+ok ok ok	\alpha
+ok ok ok	\amalg
+ok ok ok	\And
+ok ok ok	a_{\angl n}
+ok ok ok	a_\angln
+ok ok ok	\angle
+ok ok ok	\approx
+ok ok ok	\approxeq
+ok ok ok	\approxcolon
+ok ok ok	\approxcoloncolon
+ok ok ok	\arccos
+ok ok ok	\arcctg
+ok ok ok	\arcsin
+ok ok ok	\arctan
+ok ok ok	\arctg
+ok ok ok	\arg
+ok ok ok	\argmax
+ok ok ok	\argmin
+ok ok ok	\begin{array}{cc} a & b \\ c & d \end{array}
+ok ok ok	\def\arraystretch{1.5} \begin{array}{cc} a & b \\ c & d \end{array}
+ok ok ok	\ast
+ok ok ok	\asymp
+ok ok ok	{a \atop b}
+ok ok ok	\backepsilon
+ok ok ok	\backprime
+ok ok ok	\backsim
+ok ok ok	\backsimeq
+ok ok ok	\backslash
+ok ok ok	\bar{y}
+ok ok ok	\barwedge
+ok ok ok	\Bbb{ABC}
+ok ok ok	\Bbbk
+ok ok ok	\bcancel{5}
+ok ok ok	\because
+ok ok ok	\begingroup a}
+ok ok ok	\Beta
+ok ok ok	\beta
+ok ok ok	\beth
+ok ok ok	\between
+ok ok ok	\bf AaBb12
+ok ok ok	\big(\big)
+ok ok ok	\Big(\Big)
+ok ok ok	\bigcap
+ok ok ok	\bigcirc
+ok ok ok	\bigcup
+ok ok ok	\bigg(\bigg)
+ok ok ok	\Bigg(\Bigg)
+ok ok ok	\biggl(
+ok ok ok	\Biggl(
+ok ok ok	\biggm\vert
+ok ok ok	\Biggm\vert
+ok ok ok	\biggr)
+ok ok ok	\Biggr)
+ok ok ok	\bigl(
+ok ok ok	\Bigl(
+ok ok ok	\bigm\vert
+ok ok ok	\Bigm\vert
+ok ok ok	\bigodot
+ok ok ok	\bigoplus
+ok ok ok	\bigotimes
+ok ok ok	\bigr)
+ok ok ok	\Bigr)
+ok ok ok	\bigsqcup
+unsupported ok ok	\bigstar
+ok ok ok	\bigtriangledown
+ok ok ok	\bigtriangleup
+ok ok ok	\biguplus
+ok ok ok	\bigvee
+ok ok ok	\bigwedge
+ok ok ok	\binom n k
+unsupported ok ok	\blacklozenge
+ok ok ok	\blacksquare
+ok ok ok	\blacktriangle
+ok ok ok	\blacktriangledown
+ok ok ok	\blacktriangleleft
+ok ok ok	\blacktriangleright
+ok ok ok	\bm{AaBb}
+ok ok ok	\begin{Bmatrix} a & b \\ c & d \end{Bmatrix}
+ok ok ok	\begin{Bmatrix*}[r] 0 & -1 \\ -1 & 0 \end{Bmatrix*}
+ok ok ok	\begin{bmatrix} a & b \\ c & d \end{bmatrix}
+ok ok ok	\begin{bmatrix*}[r] 0 & -1 \\ -1 & 0 \end{bmatrix*}
+ok ok ok	a \bmod b
+ok ok ok	\bold{AaBb123}
+ok ok ok	\boldsymbol{AaBb}
+ok ok ok	\bot
+ok ok ok	\bowtie
+ok ok ok	\Box
+ok ok ok	\boxdot
+ok ok ok	\boxed{ab}
+ok ok ok	\boxminus
+ok ok ok	\boxplus
+ok ok ok	\boxtimes
+ok ok ok	\Bra{\psi}
+ok ok ok	\bra{\psi}
+ok ok ok	\braket{\phi|\psi}
+ok ok ok	\Braket{ ϕ | \frac{∂^2}{∂ t^2} | ψ }
+ok ok ok	{n\brace k}
+ok ok ok	{n\brack k}
+ok ok ok	\breve{eu}
+ok ok ok	\bull
+ok ok ok	\bullet
+ok ok ok	\Bumpeq
+ok ok ok	\bumpeq
+ok ok ok	\cal AaBb123
+ok ok ok	\cancel{5}
+ok ok ok	\Cap
+ok ok ok	\cap
+ok ok ok	\begin{cases} a &\text{if } b \\ c &\text{if } d \end{cases}
+ok ok ok	\begin{CD} A @>a>> B \\ @VbVV @AAcA \\ C @= D \end{CD}
+ok ok ok	\cdot
+ok ok ok	\cdotp
+ok ok ok	\cdots
+ok ok ok	a\centerdot b
+ok ok ok	\cfrac{2}{1+\cfrac{2}{1+\cfrac{2}{1}}}
+unsupported ok ok	\char"263a
+ok ok ok	\check{oe}
+ok ok ok	\ch
+ok ok ok	\checkmark
+ok ok ok	\Chi
+ok ok ok	\chi
+ok ok ok	{n+1 \choose k+2}
+ok ok ok	\circ
+ok ok ok	\circeq
+ok ok ok	\circlearrowleft
+ok ok ok	\circlearrowright
+ok ok ok	\circledast
+ok ok ok	\circledcirc
+ok ok ok	\circleddash
+ok ok ok	\circledR
+unsupported ok ok	\circledS
+ok ok ok	\clubs
+ok ok ok	\clubsuit
+ok ok ok	\cnums
+ok ok ok	\colon
+ok ok ok	\Colonapprox
+ok ok ok	\colonapprox
+ok ok ok	\coloncolon
+ok ok ok	\coloncolonapprox
+ok ok ok	\coloncolonequals
+ok ok ok	\coloncolonminus
+ok ok ok	\coloncolonsim
+ok ok ok	\Coloneq
+ok ok ok	\coloneq
+ok ok ok	\colonequals
+ok ok ok	\Coloneqq
+ok ok ok	\coloneqq
+ok ok ok	\colonminus
+ok ok ok	\Colonsim
+ok ok ok	\colonsim
+ok ok ok	\color{#0000FF} AaBb123
+ok ok ok	\colorbox{red}{Black on red}
+ok ok ok	\complement
+ok ok ok	\Complex
+ok ok ok	\cong
+ok ok ok	\coprod
+ok ok ok	\copyright
+ok ok ok	\cos
+ok ok ok	\cosec
+ok ok ok	\cosh
+ok ok ok	\cot
+ok ok ok	\cotg
+ok ok ok	\coth
+ok ok ok	\begin{matrix} a & b \cr c & d \end{matrix}
+ok ok ok	\csc
+ok ok ok	\ctg
+ok ok ok	\cth
+ok ok ok	\Cup
+ok ok ok	\cup
+ok ok ok	\curlyeqprec
+ok ok ok	\curlyeqsucc
+ok ok ok	\curlyvee
+ok ok ok	\curlywedge
+ok ok ok	\curvearrowleft
+ok ok ok	\curvearrowright
+ok ok ok	\dag
+ok ok ok	\Dagger
+ok ok ok	\dagger
+ok ok ok	\daleth
+ok ok ok	\Darr
+ok ok ok	\dArr
+ok ok ok	\darr
+unsupported ok ok	\dashleftarrow
+unsupported ok ok	\dashrightarrow
+ok ok ok	\dashv
+ok ok ok	\dbinom n k
+ok ok ok	\dblcolon
+ok ok ok	\begin{dcases} a &\text{if } b \\ c &\text{if } d \end{dcases}
+ok ok ok	\ddag
+ok ok ok	\ddagger
+ok ok ok	\ddddot x
+ok ok ok	\dddot x
+ok ok ok	\ddot x
+ok ok ok	\ddots
+ok ok ok	\def\foo{x^2} \foo + \foo
+ok ok ok	\deg
+ok ok ok	\degree
+ok ok ok	\delta
+ok ok ok	\Delta
+ok ok ok	\det
+unsupported ok ok	\digamma
+ok ok ok	\dfrac{a-1}{b-1}
+ok ok ok	\diagdown
+ok ok ok	\diagup
+ok ok ok	\Diamond
+ok ok ok	\diamond
+ok ok ok	\diamonds
+ok ok ok	\diamondsuit
+ok ok ok	\dim
+ok ok ok	\displaystyle\sum_0^n
+ok ok ok	\div
+ok ok ok	\divideontimes
+ok ok ok	\dot x
+ok ok ok	\Doteq
+ok ok ok	\doteq
+ok ok ok	\doteqdot
+ok ok ok	\dotplus
+ok ok ok	x_1 + \dots + x_n
+ok ok ok	x_1 +\dotsb + x_n
+ok ok ok	x,\dotsc,y
+ok ok ok	\int_{A_1}\int_{A_2}\dotsi
+ok ok ok	\dotso
+unsupported ok ok	\doublebarwedge
+ok ok ok	\doublecap
+ok ok ok	\doublecup
+ok ok ok	\Downarrow
+ok ok ok	\downarrow
+ok ok ok	\downdownarrows
+ok ok ok	\downharpoonleft
+ok ok ok	\downharpoonright
+ok ok ok	\begin{drcases} a &\text{if } b \\ c &\text{if } d \end{drcases}
+ok ok ok	\def\foo{a}\edef\fcopy{\foo}\def\foo{}\fcopy
+ok ok ok	\ell
+ok ok ok	\emph{nested \emph{emphasis}}
+ok ok ok	\empty
+ok ok ok	\emptyset
+ok ok ok	{a\endgroup
+ok ok ok	a\enspace b
+ok ok ok	\Epsilon
+ok ok ok	\epsilon
+ok ok ok	\eqcirc
+ok ok ok	\Eqcolon
+ok ok ok	\eqcolon
+ok ok ok	\begin{equation} a = b + c \end{equation}
+ok ok ok	\begin{equation*} a = b + c \end{equation*}
+ok ok ok	\Eqqcolon
+ok ok ok	\eqqcolon
+ok ok ok	\eqsim
+ok ok ok	\eqslantgtr
+ok ok ok	\eqslantless
+ok ok ok	\equalscolon
+ok ok ok	\equalscoloncolon
+ok ok ok	\equiv
+ok ok ok	\Eta
+ok ok ok	\eta
+ok ok ok	\eth
+ok ok ok	\exist
+ok ok ok	\exists
+ok ok ok	\exp
+ok ok ok	\fallingdotseq
+ok ok ok	\fbox{Hi there!}
+ok ok ok	\fcolorbox{red}{aqua}{A}
+unsupported ok ok	\Finv
+ok ok ok	\flat
+ok ok ok	\footnotesize footnotesize
+ok ok ok	\forall
+ok ok ok	\frac a b
+ok ok ok	\frak{AaBb}
+ok ok ok	\frown
+unsupported ok ok	\Game
+ok ok ok	\Gamma
+ok ok ok	\gamma
+ok ok ok	\begin{gather} a=b \\ e=b+c \end{gather}
+ok ok ok	\begin{gathered} a=b \\ e=b+c \end{gathered}
+ok ok ok	\gcd
+ok ok ok	\gdef\sqr#1{#1^2} \sqr{y} + \sqr{y}
+ok ok ok	\ge
+ok ok ok	\genfrac ( ] {2pt}{0}a{a+1}
+ok ok ok	\geq
+ok ok ok	\geqq
+ok ok ok	\geqslant
+ok ok ok	\gets
+ok ok ok	\gg
+ok ok ok	\ggg
+ok ok ok	\gggtr
+ok ok ok	\gimel
+ok ok ok	\global\def\add#1#2{#1+#2} \add 2 3
+ok ok ok	\gnapprox
+ok ok ok	\gneq
+ok ok ok	\gneqq
+ok ok ok	\gnsim
+ok ok ok	\grave{eu}
+ok ok ok	a \gt b
+ok ok ok	\gtrdot
+ok ok ok	\gtrapprox
+ok ok ok	\gtreqless
+ok ok ok	\gtreqqless
+ok ok ok	\gtrless
+ok ok ok	\gtrsim
+ok ok ok	\gvertneqq
+ok ok ok	\text{\H{a}}
+ok ok ok	\Harr
+ok ok ok	\hArr
+ok ok ok	\harr
+ok ok ok	\hat{\theta}
+ok ok ok	\hbar
+ok ok ok	\hbox{$x^2$}
+ok ok ok	\begin{matrix} a & b \\ \hdashline c & d \end{matrix}
+ok ok ok	\hearts
+ok ok ok	\heartsuit
+ok ok ok	\begin{matrix} a & b \\ \hline c & d \end{matrix}
+ok ok ok	\hom
+ok ok ok	\hookleftarrow
+ok ok ok	\hookrightarrow
+ok ok ok	a\hphantom{bc}d
+ok ok ok	\href{https://katex.org/}{\KaTeX}
+ok ok ok	w\hskip1em i\hskip2em d
+ok ok ok	\hslash
+ok ok ok	s\hspace7ex k
+ok ok ok	\htmlClass{foo}{x}
+ok ok ok	\htmlData{foo=a, bar=b}{x}
+ok ok ok	\htmlId{bar}{x}
+ok ok ok	\htmlStyle{color: red;}{x}
+ok ok ok	\huge huge
+ok ok ok	\Huge Huge
+ok ok ok	\text{\i}
+ok ok ok	A\iff B
+ok ok ok	\iiint
+ok ok ok	\iint
+ok ok ok	\Im
+ok ok ok	\image
+ok ok ok	\imageof
+ok ok ok	\imath
+ok ok ok	P\impliedby Q
+ok ok ok	P\implies Q
+ok ok ok	\in
+ok ok ok	\inf
+ok ok ok	\infin
+ok ok ok	\infty
+ok ok ok	\injlim
+ok ok ok	\int
+ok ok ok	\intercal
+ok ok ok	\intop
+ok ok ok	\Iota
+ok ok ok	\iota
+ok ok ok	\isin
+ok ok ok	{\it AaBb}
+ok ok ok	\text{\j}
+ok ok ok	\jmath
+ok ok ok	\Join
+ok ok ok	\Kappa
+ok ok ok	\kappa
+ok ok ok	\KaTeX
+ok ok ok	\ker
+ok ok ok	I\kern-2.5pt R
+ok ok ok	\Ket{\psi}
+ok ok ok	\ket{\psi}
+ok ok ok	\Lambda
+ok ok ok	\lambda
+ok ok ok	\land
+ok ok ok	\lang A\rangle
+ok ok ok	\langle A\rangle
+ok ok ok	\Larr
+ok ok ok	\lArr
+ok ok ok	\larr
+ok ok ok	\large large
+ok ok ok	\Large Large
+ok ok ok	\LARGE LARGE
+ok ok ok	\LaTeX
+unsupported ok ok	\lBrace
+ok ok ok	\lbrace
+ok ok ok	\lbrack
+ok ok ok	\lceil
+ok ok ok	\ldotp
+ok ok ok	\ldots
+ok ok ok	\le
+ok ok ok	\leadsto
+ok ok ok	\left\lbrace \dfrac ab \right.
+ok ok ok	\leftarrow
+ok ok ok	\Leftarrow
+ok ok ok	\leftarrowtail
+ok ok ok	\leftharpoondown
+ok ok ok	\leftharpoonup
+ok ok ok	\leftleftarrows
+ok ok ok	\Leftrightarrow
+ok ok ok	\leftrightarrow
+ok ok ok	\leftrightarrows
+ok ok ok	\leftrightharpoons
+ok ok ok	\leftrightsquigarrow
+ok ok ok	\leftthreetimes
+ok ok ok	\leq
+ok ok ok	\leqq
+ok ok ok	\leqslant
+ok ok ok	\lessapprox
+ok ok ok	\lessdot
+ok ok ok	\lesseqgtr
+ok ok ok	\lesseqqgtr
+ok ok ok	\lessgtr
+ok ok ok	\lesssim
+ok ok ok	\lfloor
+ok ok ok	\lg
+ok ok ok	\lgroup
+ok ok ok	\lhd
+ok ok ok	\lim
+ok ok ok	\liminf
+ok ok ok	\lim\limits_x
+ok ok ok	\limsup
+ok ok ok	\ll
+ok ok ok	{=}\llap{/\,}
+ok ok ok	\llbracket
+ok ok ok	\llcorner
+ok ok ok	\Lleftarrow
+ok ok ok	\lll
+ok ok ok	\llless
+unsupported ok ok	\lmoustache
+ok ok ok	\ln
+ok ok ok	\lnapprox
+ok ok ok	\lneq
+ok ok ok	\lneqq
+ok ok ok	\lnot
+ok ok ok	\lnsim
+ok ok ok	\log
+ok ok ok	\Longleftarrow
+ok ok ok	\longleftarrow
+ok ok ok	\Longleftrightarrow
+ok ok ok	\longleftrightarrow
+ok ok ok	\longmapsto
+ok ok ok	\Longrightarrow
+ok ok ok	\longrightarrow
+ok ok ok	\looparrowleft
+ok ok ok	\looparrowright
+ok ok ok	\lor
+ok ok ok	\lozenge
+ok ok ok	\lparen
+ok ok ok	\Lrarr
+ok ok ok	\lrArr
+ok ok ok	\lrarr
+ok ok ok	\lrcorner
+ok ok ok	\lq
+ok ok ok	\Lsh
+ok ok ok	\lt
+ok ok ok	\ltimes
+ok ok ok	\lVert
+ok ok ok	\lvert
+ok ok ok	\lvertneqq
+ok ok ok	\maltese
+ok ok ok	\mapsfrom
+ok ok ok	\mapsto
+ok ok ok	\mathbb{AB}
+ok ok ok	\mathbf{AaBb123}
+ok ok ok	a\mathbin{!}b
+ok ok ok	\mathcal{AaBb123}
+ok ok ok	a\mathchoice{\,}{\,\,}{\,\,\,}{\,\,\,\,}b
+ok ok ok	\sum_{\mathclap{1\le i\le n}} x_{i}
+ok ok ok	a + (b\mathclose\gt + c
+ok ok ok	\mathellipsis
+ok ok ok	\mathfrak{AaBb}
+ok ok ok	ab\mathinner{\text{inside}}cd
+ok ok ok	\mathit{AaBb}
+ok ok ok	{=}\mathllap{/\,}
+ok ok ok	\mathnormal{AaBb}
+ok ok ok	\mathop{\star}_a^b
+ok ok ok	a + \mathopen\lt b) + c
+ok ok ok	1\mathord{,}234{,}567
+ok ok ok	A\mathpunct{-}B
+ok ok ok	\mathreflectbox{x^2}
+ok ok ok	a \mathrel{\#} b
+ok ok ok	\mathrlap{\,/}{=}
+ok ok ok	\mathring{a}
+ok ok ok	\mathrm{AaBb123}
+ok ok ok	\mathscr{AaBb123}
+ok ok ok	\mathsf{AaBb123}
+ok ok ok	\mathsterling
+ok ok ok	\sqrt{\mathstrut a}
+ok ok ok	\mathtt{AaBb123}
+ok ok ok	\begin{matrix*}[r] 0 & -1 \\ -1 & 0 \end{matrix*}
+ok ok ok	\max
+ok ok ok	\measuredangle
+ok ok ok	a\medspace b
+ok ok ok	\mho
+ok ok ok	\{x∈ℝ\mid x>0\}
+ok ok ok	P\left(A\middle\vert B\right)
+ok ok ok	\min
+ok ok ok	\minuscolon
+ok ok ok	\minuscoloncolon
+unsupported ok ok	\minuso
+ok ok ok	a\mkern18mu b
+ok ok ok	3\equiv 5 \mod 2
+ok ok ok	\models
+ok ok ok	\mp
+ok ok ok	a\mskip{10mu}b
+ok ok ok	\Mu
+ok ok ok	\mu
+ok ok ok	\multimap
+ok ok ok	\N
+ok ok ok	\nabla
+ok ok ok	\natnums
+ok ok ok	\natural
+ok ok ok	a\negmedspace b
+ok ok ok	\ncong
+ok ok ok	\ne
+ok ok ok	\nearrow
+ok ok ok	\neg
+ok ok ok	a\negthickspace b
+ok ok ok	a\negthinspace b
+ok ok ok	\neq
+ok ok ok	\newcommand\chk{\checkmark} \chk
+ok ok ok	a\newline b
+ok ok ok	\nexists
+ok ok ok	\ngeq
+ok ok ok	\ngeqq
+ok ok ok	\ngeqslant
+ok ok ok	\ngtr
+ok ok ok	\ni
+ok ok ok	\nleftarrow
+ok ok ok	\nLeftarrow
+ok ok ok	\nLeftrightarrow
+ok ok ok	\nleftrightarrow
+ok ok ok	\nleq
+ok ok ok	\nleqq
+ok ok ok	\nleqslant
+ok ok ok	\nless
+ok ok ok	\nmid
+ok ok ok	a\nobreakspace b
+ok ok ok	\lim\nolimits_x
+ok ok ok	\begin{align} a&=b+c \nonumber\\ d+e&=f \end{align}
+ok ok ok	\normalsize normalsize
+ok ok ok	\not =
+ok ok ok	\begin{align} a&=b+c \notag\\ d+e&=f \end{align}
+ok ok ok	\notin
+ok ok ok	\notni
+ok ok ok	\nparallel
+ok ok ok	\nprec
+ok ok ok	\npreceq
+ok ok ok	\nRightarrow
+ok ok ok	\nrightarrow
+ok ok ok	\nshortmid
+ok ok ok	\nshortparallel
+ok ok ok	\nsim
+ok ok ok	\nsubseteq
+ok ok ok	\nsubseteqq
+ok ok ok	\nsucc
+ok ok ok	\nsucceq
+ok ok ok	\nsupseteq
+ok ok ok	\nsupseteqq
+ok ok ok	\ntriangleleft
+ok ok ok	\ntrianglelefteq
+ok ok ok	\ntriangleright
+ok ok ok	\ntrianglerighteq
+ok ok ok	\Nu
+ok ok ok	\nu
+ok ok ok	\nVDash
+ok ok ok	\nVdash
+ok ok ok	\nvDash
+ok ok ok	\nvdash
+ok ok ok	\nwarrow
+ok ok ok	\text{\O}
+ok ok ok	\text{\o}
+ok ok ok	\odot
+ok ok ok	\text{\OE}
+ok ok ok	\text{\oe}
+ok ok ok	\oiiint
+ok ok ok	\oiint
+ok ok ok	\oint
+ok ok ok	\omega
+ok ok ok	\Omega
+ok ok ok	\Omicron
+ok ok ok	\omicron
+ok ok ok	\ominus
+ok ok ok	\operatorname{asin} x
+ok ok ok	\operatorname*{asin}\limits_y x
+ok ok ok	\operatornamewithlimits{asin}\limits_y x
+ok ok ok	\oplus
+ok ok ok	\origof
+ok ok ok	\oslash
+ok ok ok	\otimes
+ok ok ok	{a+1 \over b+2}+c
+ok ok ok	\overbrace{x+⋯+x}^{n\text{ times}}
+ok ok ok	\overbracket{x+⋯+x}^{n\text{ times}}
+ok ok ok	\overgroup{AB}
+ok ok ok	\overleftarrow{AB}
+ok ok ok	\overleftharpoon{AB}
+ok ok ok	\overleftrightarrow{AB}
+ok ok ok	\overline{\text{a long argument}}
+ok ok ok	\overlinesegment{AB}
+ok ok ok	\Overrightarrow{AB}
+ok ok ok	\overrightarrow{AB}
+ok ok ok	\overrightharpoon{ac}
+ok ok ok	\overset{!}{=}
+ok ok ok	\owns
+ok ok ok	\text{\P}
+ok ok ok	\parallel
+ok ok ok	\partial
+ok ok ok	\perp
+ok ok ok	\Gamma^{\phantom{i}j}_{i\phantom{j}k}
+ok ok ok	\phase{-78^\circ}
+ok ok ok	\Phi
+ok ok ok	\phi
+ok ok ok	\Pi
+ok ok ok	\pi
+unsupported ok ok	\pitchfork
+ok ok ok	\plim
+ok ok ok	\plusmn
+ok ok ok	\pm
+ok ok ok	\begin{pmatrix} a & b \\ c & d \end{pmatrix}
+ok ok ok	\begin{pmatrix*}[r] 0 & -1 \\ -1 & 0 \end{pmatrix*}
+ok ok ok	\pmb{\mu}
+ok ok ok	x\pmod a
+ok ok ok	x \pod a
+ok ok ok	\pounds
+ok ok ok	\Pr
+ok ok ok	\prec
+unsupported ok ok	\precapprox
+ok ok ok	\preccurlyeq
+ok ok ok	\preceq
+unsupported ok ok	\precnapprox
+unsupported ok ok	\precneqq
+ok ok ok	\precnsim
+ok ok ok	\precsim
+ok ok ok	\prime
+ok ok ok	\prod
+ok ok ok	\projlim
+ok ok ok	\propto
+ok ok ok	\providecommand\greet{\text{Hello}} \greet
+ok ok ok	\psi
+ok ok ok	\Psi
+ok ok ok	a\qquad\qquad{b}
+ok ok ok	a\quad\quad{b}
+ok ok ok	\R
+ok ok ok	\text{\r{a}}
+ok ok ok	h\raisebox{2pt}{$ighe$}r
+ok ok ok	\langle A\rang
+ok ok ok	\Rarr
+ok ok ok	\rArr
+ok ok ok	\rarr
+ok ok ok	\ratio
+unsupported ok ok	\rBrace
+ok ok ok	\rbrace
+ok ok ok	\rbrack
+ok ok ok	\begin{rcases} a &\text{if } b \\ c &\text{if } d \end{rcases}
+ok ok ok	\rceil
+ok ok ok	\Re
+ok ok ok	\real
+ok ok ok	\Reals
+ok ok ok	\reals
+ok ok ok	\reflectbox{$x^2$}
+ok ok ok	\def\hail{Hi!} \renewcommand\hail{\text{Ahoy!}} \hail
+ok ok ok	\restriction
+ok ok ok	\rfloor
+ok ok ok	\rgroup
+ok ok ok	\rhd
+ok ok ok	\Rho
+ok ok ok	\rho
+ok ok ok	\left.\dfrac a b\right)
+ok ok ok	\Rightarrow
+ok ok ok	\rightarrow
+ok ok ok	\rightarrowtail
+ok ok ok	\rightharpoondown
+ok ok ok	\rightharpoonup
+ok ok ok	\rightleftarrows
+ok ok ok	\rightleftharpoons
+ok ok ok	\rightrightarrows
+ok ok ok	\rightsquigarrow
+ok ok ok	\rightthreetimes
+ok ok ok	\risingdotseq
+ok ok ok	\rlap{\,/}{=}
+ok ok ok	\rm AaBb12
+unsupported ok ok	\rmoustache
+ok ok ok	\rparen
+ok ok ok	\rq
+ok ok ok	\rrbracket
+ok ok ok	\Rrightarrow
+ok ok ok	\Rsh
+ok ok ok	\rtimes
+ok ok ok	x\rule[6pt]{2ex}{1ex}x
+ok ok ok	\rVert
+ok ok ok	\rvert
+ok ok ok	\text{\S}
+ok ok ok	\scriptscriptstyle \frac cd
+ok ok ok	\scriptsize scriptsize
+ok ok ok	\frac ab + {\scriptstyle \frac cd}
+ok ok ok	\sdot
+ok ok ok	\searrow
+ok ok ok	\sec
+ok ok ok	\text{\sect}
+ok ok ok	\set{x| x<5}
+ok ok ok	\Set{ x | x<\frac 1 2 }
+ok ok ok	\setminus
+ok ok ok	\sf AaBb123
+ok ok ok	\sharp
+ok ok ok	\shortmid
+ok ok ok	\shortparallel
+ok ok ok	\Sigma
+ok ok ok	\sigma
+ok ok ok	\sim
+ok ok ok	\simcolon
+ok ok ok	\simcoloncolon
+ok ok ok	\simeq
+ok ok ok	\sin
+ok ok ok	\sinh
+ok ok ok	\sixptsize sixptsize
+ok ok ok	\sh
+ok ok ok	\small small
+ok ok ok	\smallfrown
+ok ok ok	\smallint
+ok ok ok	\begin{smallmatrix} a & b \\ c & d \end{smallmatrix}
+ok ok ok	\smallsetminus
+ok ok ok	\smallsmile
+ok ok ok	\left(x^{\smash{2}}\right)
+ok ok ok	\smile
+ok ok ok	\text{\sout{abc}}
+ok ok ok	a\space b
+ok ok ok	\spades
+ok ok ok	\spadesuit
+ok ok ok	\sphericalangle
+ok ok ok	\begin{equation} \begin{split} a &=b+c\\ &=e+f \end{split} \end{equation}
+ok ok ok	\sqcap
+ok ok ok	\sqcup
+ok ok ok	\square
+ok ok ok	\sqrt[3]{x}
+ok ok ok	\sqsubset
+ok ok ok	\sqsubseteq
+ok ok ok	\sqsupset
+ok ok ok	\sqsupseteq
+ok ok ok	\text{\ss}
+ok ok ok	\stackrel{!}{=}
+ok ok ok	\star
+ok ok ok	\sub
+ok ok ok	\sube
+ok ok ok	\Subset
+ok ok ok	\subset
+ok ok ok	\subseteq
+unsupported ok ok	\subseteqq
+ok ok ok	\subsetneq
+unsupported ok ok	\subsetneqq
+ok ok ok	\sum_{\substack{0<i<m\\0<j<n}}
+ok ok ok	\succ
+unsupported ok ok	\succapprox
+ok ok ok	\succcurlyeq
+ok ok ok	\succeq
+unsupported ok ok	\succnapprox
+unsupported ok ok	\succneqq
+ok ok ok	\succnsim
+ok ok ok	\succsim
+ok ok ok	\sum
+ok ok ok	\sup
+ok ok ok	\supe
+ok ok ok	\Supset
+ok ok ok	\supset
+ok ok ok	\supseteq
+unsupported ok ok	\supseteqq
+ok ok ok	\supsetneq
+unsupported ok ok	\supsetneqq
+ok ok ok	\surd
+ok ok ok	\swarrow
+ok ok ok	\tag{3.1c} a^2+b^2=c^2
+ok ok ok	\tag*{3.1c} a^2+b^2=c^2
+ok ok ok	\tan
+ok ok ok	\tanh
+ok ok ok	\Tau
+ok ok ok	\tau
+ok ok ok	\tbinom n k
+ok ok ok	\TeX
+ok ok ok	\text{ yes }\&\text{ no }
+ok ok ok	\text{\textasciitilde}
+ok ok ok	\text{\textasciicircum}
+ok ok ok	\text{\textbackslash}
+ok ok ok	\text{\textbar}
+ok ok ok	\text{\textbardbl}
+ok ok ok	\textbf{AaBb123}
+ok ok ok	\text{\textbraceleft}
+ok ok ok	\text{\textbraceright}
+ok ok ok	\text{\textcircled a}
+ok ok ok	\textcolor{blue}{F=ma}
+ok ok ok	\text{\textdagger}
+ok ok ok	\text{\textdaggerdbl}
+ok ok ok	\text{\textdegree}
+ok ok ok	\text{\textellipsis}
+ok ok ok	\text{\textemdash}
+ok ok ok	\text{\textendash}
+ok ok ok	\text{\textgreater}
+ok ok ok	\textit{AaBb}
+ok ok ok	\text{\textless}
+ok ok ok	\textmd{AaBb123}
+ok ok ok	\textnormal{AB}
+ok ok ok	\text{\textquotedblleft}
+ok ok ok	\text{\textquotedblright}
+ok ok ok	\text{\textquoteleft}
+ok ok ok	\text{\textquoteright}
+ok ok ok	\text{\textregistered}
+ok ok ok	\textrm{AaBb123}
+ok ok ok	\textsf{AaBb123}
+ok ok ok	\text{\textsterling}
+ok ok ok	\textstyle\sum_0^n
+ok ok ok	\texttt{AaBb123}
+ok ok ok	\text{\textunderscore}
+ok ok ok	\textup{AaBb123}
+ok ok ok	\tfrac ab
+ok ok ok	\tg
+ok ok ok	\th
+ok ok ok	\therefore
+ok ok ok	\Theta
+ok ok ok	\theta
+ok ok ok	\thetasym
+ok ok ok	\thickapprox
+ok ok ok	\thicksim
+ok ok ok	a\thickspace b
+ok ok ok	a\thinspace b
+ok ok ok	\tilde M
+ok ok ok	\times
+ok ok ok	\tiny tiny
+ok ok ok	\to
+ok ok ok	\top
+ok ok ok	\triangle
+ok ok ok	\triangledown
+ok ok ok	\triangleleft
+ok ok ok	\trianglelefteq
+ok ok ok	\triangleq
+ok ok ok	\triangleright
+ok ok ok	\trianglerighteq
+ok ok ok	{\tt AaBb123}
+ok ok ok	\twoheadleftarrow
+ok ok ok	\twoheadrightarrow
+ok ok ok	\text{\u{a}}
+ok ok ok	\Uarr
+ok ok ok	\uArr
+ok ok ok	\uarr
+ok ok ok	\ulcorner
+ok ok ok	\underbar{X}
+ok ok ok	\underbrace{x+⋯+x}_{n\text{ times}}
+ok ok ok	\underbracket{x+⋯+x}_{n\text{ times}}
+ok ok ok	\undergroup{AB}
+ok ok ok	\underleftarrow{AB}
+ok ok ok	\underleftrightarrow{AB}
+ok ok ok	\underrightarrow{AB}
+ok ok ok	\underline{\text{a long argument}}
+ok ok ok	\underlinesegment{AB}
+ok ok ok	\underset{!}{=}
+ok ok ok	\unlhd
+ok ok ok	\unrhd
+ok ok ok	\Uparrow
+ok ok ok	\uparrow
+ok ok ok	\Updownarrow
+ok ok ok	\updownarrow
+ok ok ok	\upharpoonleft
+ok ok ok	\upharpoonright
+ok ok ok	\uplus
+ok ok ok	\Upsilon
+ok ok ok	\upsilon
+ok ok ok	\upuparrows
+ok ok ok	\urcorner
+ok ok ok	\url{https://katex.org/}
+ok ok ok	\utilde{AB}
+ok ok ok	\text{\v{a}}
+ok ok ok	\varDelta
+ok ok ok	\varepsilon
+ok ok ok	\varGamma
+ok ok ok	\varinjlim
+ok ok ok	\varkappa
+ok ok ok	\varLambda
+ok ok ok	\varliminf
+ok ok ok	\varlimsup
+ok ok ok	\varnothing
+ok ok ok	\varOmega
+ok ok ok	\varPhi
+ok ok ok	\varphi
+ok ok ok	\varPi
+ok ok ok	\varpi
+ok ok ok	\varprojlim
+ok ok ok	\varpropto
+ok ok ok	\varPsi
+ok ok ok	\varrho
+ok ok ok	\varSigma
+ok ok ok	\varsigma
+ok ok ok	\varsubsetneq
+unsupported ok ok	\varsubsetneqq
+ok ok ok	\varsupsetneq
+unsupported ok ok	\varsupsetneqq
+ok ok ok	\varTheta
+ok ok ok	\vartheta
+ok ok ok	\vartriangle
+ok ok ok	\vartriangleleft
+ok ok ok	\vartriangleright
+ok ok ok	\varUpsilon
+ok ok ok	\varXi
+ok ok ok	\mathrel{\vcentcolon =}
+ok ok ok	a+\left(\vcenter{\hbox{$\frac{\frac a b}c$}}\right)
+ok ok ok	a+\left(\vcenter{\frac{\frac a b}c}\right)
+ok ok ok	\Vdash
+ok ok ok	\vDash
+ok ok ok	\vdash
+ok ok ok	\vdots
+ok ok ok	\vec{F}
+ok ok ok	\vee
+ok ok ok	\veebar
+ok ok ok	\verb!\frac a b!
+ok ok ok	\begin{Vmatrix} a & b \\ c & d \end{Vmatrix}
+ok ok ok	\begin{Vmatrix*}[r] 0 & -1 \\ -1 & 0 \end{Vmatrix*}
+ok ok ok	\begin{vmatrix} a & b \\ c & d \end{vmatrix}
+ok ok ok	\begin{vmatrix*}[r] 0 & -1 \\ -1 & 0 \end{vmatrix*}
+ok ok ok	\overline{\vphantom{M}a}
+ok ok ok	\Vvdash
+ok ok ok	\wedge
+ok ok ok	\weierp
+ok ok ok	\widecheck{AB}
+ok ok ok	\widehat{AB}
+ok ok ok	\widetilde{AB}
+ok ok ok	\wp
+ok ok ok	\wr
+ok ok ok	\xcancel{ABC}
+ok ok ok	\def\foo{a}\xdef\fcopy{\foo}\def\foo{}\fcopy
+ok ok ok	\Xi
+ok ok ok	\xi
+ok ok ok	\xhookleftarrow{abc}
+ok ok ok	\xhookrightarrow{abc}
+ok ok ok	\xLeftarrow{abc}
+ok ok ok	\xleftarrow{abc}
+ok ok ok	\xleftharpoondown{abc}
+ok ok ok	\xleftharpoonup{abc}
+ok ok ok	\xLeftrightarrow{abc}
+ok ok ok	\xleftrightarrow{abc}
+ok ok ok	\xleftrightharpoons{abc}
+ok ok ok	\xlongequal{abc}
+ok ok ok	\xmapsto{abc}
+ok ok ok	\xRightarrow{abc}
+ok ok ok	\xrightarrow{abc}
+ok ok ok	\xrightharpoondown{abc}
+ok ok ok	\xrightharpoonup{abc}
+ok ok ok	\xrightleftharpoons{abc}
+ok ok ok	\xtofrom{abc}
+ok ok ok	\xtwoheadleftarrow{abc}
+ok ok ok	\xtwoheadrightarrow{abc}
+ok ok ok	\yen
+ok ok ok	\Z
+ok ok ok	\Zeta
+ok ok ok	\zeta
+ok ok ok	a\allowbreak b
+ok ok ok	a\nobreak b
+ok ok ok	a\relax b
+ok ok ok	\let\foo=\frac \foo12
+ok ok ok	\long\def\a{x}\a
+ok ok ok	\def\b{y}\def\a{\b}\expandafter\a
+ok ok ok	\def\b{B}\futurelet\a\b c
+## out of scope
+syntax syntax syntax	$x_1 x_2 \dotsm x_n
+unsupported unsupported unsupported	\ce{C6H5-CHO}
+unsupported unsupported unsupported	\pu{123 kJ//mol}
+unsupported unsupported unsupported	\includegraphics[height=0.8em]{x.png}
+unsupported unsupported unsupported	\label{eq} x
+unsupported unsupported unsupported	\eqref{eq}
+unsupported unsupported unsupported	\sideset{_a^b}{_c^d}\sum
+unsupported unsupported unsupported	\prescript{14}{6}{C}
+unsupported unsupported unsupported	\sqrt[\leftroot{2}3]{x}
+## regressions
+ok ok ok	\newcommand\u[1]{\url{#1}}\u{abc}
+ok ok ok	\def\u#1{\url{http://x/#1}}\u{a\%b}
+ok ok ok	\renewcommand\url[1]{[#1]}\url{a%b}
+ok ok ok	\url{http://a/%20b#x}
+ok ok ok	\def\a{\def\b##1{[##1]}}\a\b{x}
+ok ok ok	\def\a#1{\def\b##1{#1##1}}\a{p}\b{q}
+ok ok ok	\providecommand\frac{F}\frac12
+ok ok ok	\providecommand\\{+}\begin{matrix}a\\b\end{matrix}
+syntax syntax syntax	\newcommand\x{X}\newcommand\x{Y}\x
+ok ok ok	\newcommand{\R}{\mathbb{R}}\R
+ok ok ok	\def\x{b}\begin{matrix}\def\x{a}\end{matrix}\x
+ok ok ok	a\def\x{1}\\ \x \def\y{2}\\ \y
+syntax syntax syntax	\begin{align}a&=b\tag{1}\end{align}+1
+ok ok ok	\begin{align}a&=b\tag{1}\\c&=d\tag{2}\end{align}\tag{3}
+unsupported ok ok	\text{定⃣}
+syntax syntax syntax	\not\notag
+ok ok ok	\char"7B x
+ok ok ok	\text{a\verb!x!b}
+ok ok ok	\edef\a{\def\b{x}}\a\b
+ok ok ok	\color{#1a2b3c}x

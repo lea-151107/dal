@@ -1,0 +1,2 @@
+(a + b + c)^(3 terms) + (x + y)ₙ
+(a + b + c)^(3 terms) + (x + y)_n
