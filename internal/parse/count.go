@@ -3,7 +3,7 @@ package parse
 import (
 	"reflect"
 
-	"github.com/lea/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/ast"
 )
 
 var nodeType = reflect.TypeFor[ast.Node]()

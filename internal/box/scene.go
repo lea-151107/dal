@@ -4,8 +4,8 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/lea/dal/internal/mathfont"
-	"github.com/lea/dal/internal/scene"
+	"github.com/lea-151107/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/scene"
 )
 
 // ToScene converts b to drawing commands in pixels. fg is the default

@@ -16,7 +16,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/lea/dal/internal/textgrid"
+	"github.com/lea-151107/dal/internal/textgrid"
 )
 
 // TestAmplification feeds small inputs that used to blow up into huge

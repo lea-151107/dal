@@ -3,8 +3,8 @@ package linear_test
 import (
 	"testing"
 
-	"github.com/lea/dal/internal/linear"
-	"github.com/lea/dal/internal/parse"
+	"github.com/lea-151107/dal/internal/linear"
+	"github.com/lea-151107/dal/internal/parse"
 )
 
 var lim = parse.Limits{MaxInputBytes: 16 << 10, MaxNodes: 5000, MaxDepth: 64, MaxExpansions: 1000}

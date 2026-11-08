@@ -9,9 +9,9 @@ package box
 import (
 	"image/color"
 
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/mathfont"
 )
 
 // Tuning values in em (TeX's values at 10pt where they exist).

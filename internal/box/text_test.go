@@ -5,9 +5,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/mathfont"
-	"github.com/lea/dal/internal/parse"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/parse"
 )
 
 // TestTextRuns checks that \text uses the math font for the characters it

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/mathfont"
 )
 
 // stretchVert returns glyph r at a total height (height + depth) of at

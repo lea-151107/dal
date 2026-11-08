@@ -3,7 +3,7 @@ package raster
 import (
 	"testing"
 
-	"github.com/lea/dal/internal/scene"
+	"github.com/lea-151107/dal/internal/scene"
 )
 
 // TestPlanClamp checks that extents beyond any pixel limit stay large and

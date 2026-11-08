@@ -8,10 +8,10 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/symbols"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/symbols"
 )
 
 // Limits bounds the work of one Parse call. All fields must be positive.

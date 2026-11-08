@@ -7,8 +7,8 @@ import (
 	"image/color"
 	"testing"
 
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/scene"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/scene"
 )
 
 // TestLineNoFusion draws a line whose corner lands on a 1/64 rounding

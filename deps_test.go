@@ -23,7 +23,7 @@ func TestDependencies(t *testing.T) {
 		case pkg == "runtime/cgo", pkg == "os/exec", pkg == "net", strings.HasPrefix(pkg, "net/"), pkg == "plugin":
 			t.Errorf("forbidden dependency %s", pkg)
 		case std:
-		case strings.HasPrefix(pkg, "github.com/lea/dal"), strings.HasPrefix(pkg, "golang.org/x/image/"):
+		case strings.HasPrefix(pkg, "github.com/lea-151107/dal"), strings.HasPrefix(pkg, "golang.org/x/image/"):
 		case pkg == "golang.org/x/sys/cpu", strings.HasPrefix(pkg, "golang.org/x/text/"):
 			// Pure Go packages imported by x/image itself (CPU feature
 			// detection for vector, legacy encodings for sfnt).
@@ -73,5 +73,5 @@ var layers = map[string][]string{
 // TestLayering enforces the one-way dependency direction between internal
 // packages.
 func TestLayering(t *testing.T) {
-	checkLayering(t, "github.com/lea/dal/internal/", layers)
+	checkLayering(t, "github.com/lea-151107/dal/internal/", layers)
 }

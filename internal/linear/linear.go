@@ -7,8 +7,8 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/symbols"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/symbols"
 )
 
 // Options controls the output.

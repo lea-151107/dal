@@ -16,13 +16,13 @@ import (
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
 
-	"github.com/lea/dal/internal/box"
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/linear"
-	"github.com/lea/dal/internal/mathfont"
-	"github.com/lea/dal/internal/parse"
-	"github.com/lea/dal/internal/raster"
-	"github.com/lea/dal/internal/textgrid"
+	"github.com/lea-151107/dal/internal/box"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/linear"
+	"github.com/lea-151107/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/parse"
+	"github.com/lea-151107/dal/internal/raster"
+	"github.com/lea-151107/dal/internal/textgrid"
 )
 
 // Result is a rendered formula.

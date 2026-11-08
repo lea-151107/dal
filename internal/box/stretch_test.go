@@ -4,8 +4,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/mathfont"
 )
 
 func newTestLayouter(t *testing.T, f *mathfont.Font) *layouter {

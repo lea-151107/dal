@@ -3,7 +3,7 @@
 ## Context
 
 - 要件: `/home/lea/tmp/math-module-requirements.md`。gvmd が使っている go-latex では上付き・下付き、`\left`/`\right`、行列が描けないため、TeX と同じボックスとグルーの組版エンジンを自作する。結果は画像、2 次元テキスト、1 行テキストの 3 種類で出す。
-- 置き場所は `/home/lea/dal`（今は空）。モジュールは `github.com/lea/dal`、パッケージは `dal`。
+- 置き場所は `/home/lea/dal`（今は空）。モジュールは `github.com/lea-151107/dal`、パッケージは `dal`。
 - 設計と規約は dam（`~/dam`）にそろえる。
   - 依存: 標準ライブラリと `golang.org/x/image v0.47.0` だけ。go 1.26.0。
   - cgo、`os/exec`、`net`、`unsafe` は使わない。`os` は `cmd/` でだけ使う。

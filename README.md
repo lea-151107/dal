@@ -120,4 +120,4 @@ printf '%s\n' 'a + b + c = d + e' | go run ./cmd/dalpng --text --cols 10 --wrap
 
 ## ライセンス
 
-埋め込みフォントの Latin Modern Math は GUST Font License です（[LICENSE-FONT](LICENSE-FONT) と `internal/mathfont/` を参照してください）。
+コードは MIT License です（[LICENSE](LICENSE)）。埋め込みフォントの Latin Modern Math は GUST Font License です（[LICENSE-FONT](LICENSE-FONT) と `internal/mathfont/` を参照してください）。

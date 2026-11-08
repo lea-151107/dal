@@ -1,7 +1,7 @@
 package symbols
 
 import (
-	"github.com/lea/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/ast"
 	"testing"
 	"unicode/utf8"
 )

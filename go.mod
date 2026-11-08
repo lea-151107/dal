@@ -1,4 +1,4 @@
-module github.com/lea/dal
+module github.com/lea-151107/dal
 
 go 1.26.0
 

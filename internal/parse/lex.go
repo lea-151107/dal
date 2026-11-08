@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/lea/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/diag"
 )
 
 type tokKind uint8

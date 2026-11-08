@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/parse"
-	"github.com/lea/dal/internal/textgrid"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/parse"
+	"github.com/lea-151107/dal/internal/textgrid"
 )
 
 var lim = parse.Limits{MaxInputBytes: 16 << 10, MaxNodes: 5000, MaxDepth: 64, MaxExpansions: 1000}

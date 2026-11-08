@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lea/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/ast"
 )
 
 // allNodes counts every value implementing ast.Node under v, looking

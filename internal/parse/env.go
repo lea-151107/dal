@@ -1,8 +1,8 @@
 package parse
 
 import (
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/diag"
 )
 
 // envInfo describes how an environment's array is set up.

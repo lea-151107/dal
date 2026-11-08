@@ -3,9 +3,9 @@ package parse
 import (
 	"strings"
 
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/symbols"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/symbols"
 )
 
 // textArg reads the argument of \text and its relatives. Plain text becomes

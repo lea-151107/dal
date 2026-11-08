@@ -8,7 +8,7 @@ import (
 	"slices"
 	"testing"
 
-	"github.com/lea/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/mathfont"
 )
 
 // corners holds a constant kern for each corner of a glyph, indexed by

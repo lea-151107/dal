@@ -21,7 +21,7 @@ import (
 	"golang.org/x/image/font/gofont/goregular"
 	"golang.org/x/image/font/opentype"
 
-	"github.com/lea/dal/internal/textgrid"
+	"github.com/lea-151107/dal/internal/textgrid"
 )
 
 var update = flag.Bool("update", false, "rewrite golden files")

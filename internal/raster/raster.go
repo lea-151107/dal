@@ -16,10 +16,10 @@ import (
 	"golang.org/x/image/math/fixed"
 	"golang.org/x/image/vector"
 
-	"github.com/lea/dal/internal/curve"
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/mathfont"
-	"github.com/lea/dal/internal/scene"
+	"github.com/lea-151107/dal/internal/curve"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/scene"
 )
 
 // DefaultMaxPixels is the default bound on the size of an image. One pixel

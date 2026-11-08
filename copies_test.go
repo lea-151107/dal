@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/lea/dal/internal/symbols"
+	"github.com/lea-151107/dal/internal/symbols"
 )
 
 // damDir is the mermaid module, which dal's copies come from. Both modules

@@ -13,7 +13,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lea/dal/internal/symbols"
+	"github.com/lea-151107/dal/internal/symbols"
 )
 
 // coverageStatus summarizes one output's result for the coverage table.

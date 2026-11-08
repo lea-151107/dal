@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/lea/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/mathfont"
 )
 
 type kernCall struct {

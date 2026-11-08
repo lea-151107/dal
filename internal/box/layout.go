@@ -6,10 +6,10 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/mathfont"
-	"github.com/lea/dal/internal/symbols"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/symbols"
 )
 
 func (l *layouter) node(n ast.Node, st style) ([]atom, error) {

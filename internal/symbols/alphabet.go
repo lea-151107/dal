@@ -1,6 +1,6 @@
 package symbols
 
-import "github.com/lea/dal/internal/ast"
+import "github.com/lea-151107/dal/internal/ast"
 
 // Starts of the Latin ranges in the Mathematical Alphanumeric Symbols block
 // (capital A; small a follows 26 code points later).

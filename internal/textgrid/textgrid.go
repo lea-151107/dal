@@ -10,10 +10,10 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/guard"
-	"github.com/lea/dal/internal/symbols"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/symbols"
 )
 
 // RuneWidth returns the number of columns r occupies on its own: 0 for

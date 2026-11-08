@@ -1,6 +1,6 @@
 package parse
 
-import "github.com/lea/dal/internal/symbols"
+import "github.com/lea-151107/dal/internal/symbols"
 
 // parserCommands are the commands the parser handles itself (the cases of
 // command and switchCommand, and the infix and structural ones).

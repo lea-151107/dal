@@ -6,8 +6,8 @@ import (
 	"strings"
 	"unicode/utf8"
 
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/guard"
 )
 
 // ErrTooLarge reports that the input exceeded a limit (Limits, the pixel

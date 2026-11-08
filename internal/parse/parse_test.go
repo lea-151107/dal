@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/lea/dal/internal/ast"
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/ast"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/guard"
 )
 
 var testLimits = Limits{MaxInputBytes: 16 << 10, MaxNodes: 5000, MaxDepth: 64, MaxExpansions: 1000}

@@ -1,7 +1,7 @@
 # コーディング規約
 
 このリポジトリ（pure Go の数式組版ライブラリ `dal`）のコードはすべて、この規約に従って書く。
-dam（`github.com/lea/mermaid`）の規約を土台にしている。背景と全体設計は [plans/math-renderer.md](plans/math-renderer.md) を参照。
+dam（`github.com/lea-151107/dam`）の規約を土台にしている。背景と全体設計は [plans/math-renderer.md](plans/math-renderer.md) を参照。
 
 ---
 
@@ -78,7 +78,7 @@ gvmd は「入力の sha256 + `Version`」をキャッシュのキーにする�
   - グリフも同じ理由で `QuadTo` / `CubeTo` を使わない。数式フォントの輪郭は `internal/raster` で `internal/curve` を使って折れ線にする。`TextFace` が返す Face の決定性は、その Face の実装による。
   - `internal/box` と `internal/raster` では、定数でない浮動小数点の積を `float64(a*b)` のように明示的に型変換して、融合を止める。Go の仕様では、積を変数に入れてから足す場合（`t := a*b; r := t + c`）も融合してよいので、足し算の直前だけでは足りない。2 のべき乗を掛ける積（`x/2`、`x/64`）は正確なので、融合されても結果は変わらない。
   - 丸めや判定に使う値に、アーキテクチャ別のアセンブリを持つ標準関数（`math.Hypot` など）を使わない。amd64 ではアセンブリ、arm64 では融合される純 Go 実装になり、下の確認（v3）では違いが見えない。`math.Sqrt` のように、どこでも正しく丸められる関数を使う。
-  - 確認: `GOAMD64=v3 go test .` と `go test -tags noasm .` が、どちらも golden と一致すること（v3 は積和の融合の一部、noasm は vector の純 Go 実装を、amd64 の上で再現する）。v3 が融合するのは足し算だけで、arm64 は引き算（`a - x*y`、`x*y - a`）も融合するので、`GOARCH=arm64 go build -a -gcflags='github.com/lea/dal/...=-S' ./... 2>&1 | grep -E '\sF(N)?M(ADD|SUB)D\s'` に出る行が、2 のべき乗を掛ける積だけであることも確かめる。
+  - 確認: `GOAMD64=v3 go test .` と `go test -tags noasm .` が、どちらも golden と一致すること（v3 は積和の融合の一部、noasm は vector の純 Go 実装を、amd64 の上で再現する）。v3 が融合するのは足し算だけで、arm64 は引き算（`a - x*y`、`x*y - a`）も融合するので、`GOARCH=arm64 go build -a -gcflags='github.com/lea-151107/dal/...=-S' ./... 2>&1 | grep -E '\sF(N)?M(ADD|SUB)D\s'` に出る行が、2 のべき乗を掛ける積だけであることも確かめる。
 - 出力に影響する変更を加えたら `Version` を上げる。golden の更新が必要になった変更は、出力に影響する変更とみなす。`TestMain`（`goldenversion_test.go`）が `testdata/golden.version` に記録した Version と golden 全体のハッシュを確認し、Version を上げずに golden が変わると `-update` でも失敗する。
 
 ## 7. リソース保護

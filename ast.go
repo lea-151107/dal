@@ -1,6 +1,6 @@
 package dal
 
-import "github.com/lea/dal/internal/ast"
+import "github.com/lea-151107/dal/internal/ast"
 
 // The syntax tree returned by Parse. The types are defined in an internal
 // package and re-exported here; see the field documentation there.

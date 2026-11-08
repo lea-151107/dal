@@ -24,7 +24,7 @@ import (
 	"golang.org/x/image/font"
 	"golang.org/x/image/font/opentype"
 
-	"github.com/lea/dal"
+	"github.com/lea-151107/dal"
 )
 
 func main() {

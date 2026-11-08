@@ -10,9 +10,9 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/lea/dal/internal/linear"
-	"github.com/lea/dal/internal/mathfont"
-	"github.com/lea/dal/internal/parse"
+	"github.com/lea-151107/dal/internal/linear"
+	"github.com/lea-151107/dal/internal/mathfont"
+	"github.com/lea-151107/dal/internal/parse"
 )
 
 const fuzzTimeLimit = 2 * time.Second

@@ -1,6 +1,6 @@
 package box
 
-import "github.com/lea/dal/internal/ast"
+import "github.com/lea-151107/dal/internal/ast"
 
 func (l *layouter) array(n *ast.Array, outer style) ([]atom, error) {
 	// Only the top-level array puts its row tags at the line's end; the

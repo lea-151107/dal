@@ -3,7 +3,7 @@
 // The coverage target is KaTeX's list of supported functions.
 package symbols
 
-import "github.com/lea/dal/internal/ast"
+import "github.com/lea-151107/dal/internal/ast"
 
 // Sym is a symbol command.
 type Sym struct {

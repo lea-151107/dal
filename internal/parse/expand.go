@@ -5,8 +5,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/lea/dal/internal/diag"
-	"github.com/lea/dal/internal/guard"
+	"github.com/lea-151107/dal/internal/diag"
+	"github.com/lea-151107/dal/internal/guard"
 )
 
 // maxExpandedTokens bounds the tokens produced by macro expansion, so that a
